@@ -1,0 +1,17 @@
+{
+    "id": 15,
+    "api_model": "generic-pages",
+    "api_link": "https://api.artic.edu/api/v1/generic-pages/15",
+    "title": "Research Guides",
+    "type": null,
+    "web_url": "https://nocache.www.artic.edu/library/discover-our-collections/research-guides",
+    "slug": "research-guides",
+    "image_url": null,
+    "listing_description": "When starting your research, explore these guides. To consult with an actual librarian, visit the reference desk, call (312) 443-3666, or email reference@artic.edu.",
+    "short_description": "Librarians have created these online guides and bibliographies to assist you in your exploration of our collections.",
+    "copy": " Learn how to research a work of art, uncover the history of a Chicago building, locate art market prices or a professional appraiser, or find information on works exhibited at the Paris salons, among other topics.   An overview of the library collections is available here , and information on visiting the Reading Room can be found here . ",
+    "search_tags": null,
+    "last_updated_source": "2020-03-19T15:06:06-05:00",
+    "last_updated": "2021-04-21T23:21:06-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

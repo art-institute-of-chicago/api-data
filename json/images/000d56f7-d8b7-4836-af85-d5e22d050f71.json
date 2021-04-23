@@ -1,0 +1,44 @@
+{
+    "id": "000d56f7-d8b7-4836-af85-d5e22d050f71",
+    "lake_guid": "000d56f7-d8b7-4836-af85-d5e22d050f71",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000d56f7-d8b7-4836-af85-d5e22d050f71",
+    "title": "PH_06664",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "998be81cab98bc2f22cf0e3eef5b53a7",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000d56f7-d8b7-4836-af85-d5e22d050f71",
+    "width": 2107,
+    "height": 3000,
+    "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAADo4Nzs6OUNCQUlIR0tKSUxLSUxLSk5NS05NTU9OTVJRUFdWVVxbWVxbWmVkYwAAACH5BAAAAAAALAAAAAADAAUAAAQLcCFHhCohHTCYaREAOw==",
+    "colorfulness": 2.7173,
+    "color": {
+        "h": 51,
+        "l": 51,
+        "s": 1,
+        "percentage": 0.004646105179913009,
+        "population": 47
+    },
+    "fingerprint": {
+        "ahash": "bf818d818181a1bf",
+        "dhash": "6d31597947454765",
+        "phash": "aa9a8565b5c7d245",
+        "whash": "ff818d818181a3ff"
+    },
+    "artwork_ids": [
+        145301
+    ],
+    "artwork_titles": [
+        "Tambor, La Orquesta del Nuevo Ritmo (Drum, the Orchestra of the New Rhythm)"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-09T19:50:41-06:00",
+    "timestamp": "2021-04-22T22:21:44-05:00"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 7,
+    "api_model": "web-exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/web-exhibitions/7",
+    "title": "Flesh: Ivan Albright at the Art Institute of Chicago",
+    "exhibition_id": 2771,
+    "is_featured": false,
+    "header_copy": "<p>More than 30 works from the museum\u2019s collection present a focused retrospective of this \u201cmaster of the macabre.\u201d</p>",
+    "list_description": "More than 30 works from the museum\u2019s collection present a focused retrospective of this \u201cmaster of the macabre.\u201d",
+    "exhibition_message": "<p>Free with admission.</p>",
+    "last_updated_source": "2018-10-04T09:49:06-05:00",
+    "last_updated": "2021-04-21T23:17:57-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

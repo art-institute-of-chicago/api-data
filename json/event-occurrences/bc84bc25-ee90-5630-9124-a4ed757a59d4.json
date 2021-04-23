@@ -1,0 +1,20 @@
+{
+    "id": "bc84bc25-ee90-5630-9124-a4ed757a59d4",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/bc84bc25-ee90-5630-9124-a4ed757a59d4",
+    "title": "Virtual Conversation: Fracture Lines: Jan and Benedikte Groth's Tegn I (Sign)",
+    "event_id": 5223,
+    "short_description": "Associate curator of Textiles Erica Warren and Rhoades curatorial intern Hanne Graversen discuss how questions of medium, gender, and nationality inform the hierarchy of art forms.",
+    "description": "<p>The tapestry <em>Tegn I (Sign)</em> (1970), created by Jan and Benedikte Groth, forms the locus for this conversation about the hierarchy of art forms in the post-1945 period. Associate curator of Textiles Erica Warren and Rhoades curatorial intern Hanne Graversen discuss the ways in which questions of medium, gender, and nationality inform such perceived hierarchies.</p><p>This virtual event will be hosted on Zoom. Find Zoom&nbsp;<a href=\"https://support.zoom.us/hc/en-us/articles/206175806-Top-Questions?_ga=2.215296464.632197775.1602523006-335869480.1600106614\" target=\"_blank\">tutorials and resources here.</a>&nbsp;If you have any questions about virtual programming, please reach out to&nbsp;<a href=\"mailto:museum-programs@artic.edu\">museum-programs@artic.edu</a>.</p><p>For questions related to accessibility accommodations, please email&nbsp;<a href=\"mailto:access@artic.edu\">access@artic.edu</a>.&nbsp;</p>",
+    "image_url": "https://artic-web.imgix.net/nullef808d2a-4971-4ade-93da-00e8e782cdee/Tegn.jpg?rect=34%2C9%2C809%2C455&auto=compress&fm=jpg&q=80&fit=crop&crop=faces%2Cedges%2Centropy&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2021-05-19T14:00:00-05:00",
+    "end_at": "2021-05-19T15:00:00-05:00",
+    "location": "Virtual",
+    "button_url": "https://artic-edu.zoom.us/meeting/register/tJIkd-2spz4vEtxfqWgYfyoY_dyZNvb42bSz",
+    "button_text": "Register",
+    "button_caption": "<p>Free, registration required</p>",
+    "last_updated_source": "2021-03-15T17:07:54-05:00",
+    "last_updated": "2021-04-21T23:14:59-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

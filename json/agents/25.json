@@ -1,0 +1,39 @@
+{
+    "id": 25,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/25",
+    "title": "Anonymous",
+    "sort_title": "Anonymous",
+    "alt_titles": null,
+    "birth_date": null,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "description": null,
+    "is_licensing_restricted": null,
+    "is_artist": true,
+    "agent_type_title": "Individual",
+    "agent_type_id": 7,
+    "artwork_ids": [
+        137143,
+        120017,
+        93700,
+        63956
+    ],
+    "site_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Anonymous",
+            "Anonymous"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2019-05-14T15:20:20-05:00",
+    "timestamp": "2021-04-22T22:13:43-05:00"
+}

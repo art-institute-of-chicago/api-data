@@ -1,0 +1,40 @@
+{
+    "id": "000bd127-eb82-461f-0da2-821c07238658",
+    "lake_guid": "000bd127-eb82-461f-0da2-821c07238658",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000bd127-eb82-461f-0da2-821c07238658",
+    "title": "AIC1998SurrealismShapiro001.jpg",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "8b317ec0b37f779d7d482abf9071151a",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000bd127-eb82-461f-0da2-821c07238658",
+    "width": 1540,
+    "height": 964,
+    "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAACMbGDwjFSAjJC0vLjExMlczHVQ0IWQ9JmM/KT5AQERFRUxJR0xHSElMTVNHQlhTUFhUUllWU1hYW1taWl9dWlhYXFpbXF9cX2NiX2toaGtoaW5sanZycXFzdYWCgIaEhYeGh4mHiJSRk5GRlJaWm5mXmKumpNzY1QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQNAGUyKNOo2ThyL6hCwJEyeS0UwUA8ll8YAwCIKKo3BAGAKAIAA7",
+    "colorfulness": 21.756,
+    "color": {
+        "h": 328,
+        "l": 38,
+        "s": 0,
+        "percentage": 0.4682051835076746,
+        "population": 2084
+    },
+    "fingerprint": {
+        "ahash": "fefedcd8c8000000",
+        "dhash": "3030343030b03020",
+        "phash": "dcde07010778967e",
+        "whash": "fefefcdcd8c08000"
+    },
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "last_updated_source": null,
+    "last_updated": "2021-02-08T22:17:53-06:00",
+    "timestamp": "2021-04-22T22:14:57-05:00"
+}

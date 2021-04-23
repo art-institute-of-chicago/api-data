@@ -1,0 +1,22 @@
+{
+    "id": "00c61990-8a7b-f864-dcac-290cab61fdeb",
+    "lake_guid": "00c61990-8a7b-f864-dcac-290cab61fdeb",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/00c61990-8a7b-f864-dcac-290cab61fdeb",
+    "title": "AIC1941JBurck_comb.pdf",
+    "type": "text",
+    "description": null,
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00c61990-8a7b-f864-dcac-290cab61fdeb",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "5fa34dcc9524d16d1d186146112e09e4",
+    "content_modified_at": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "last_updated_source": null,
+    "last_updated": "2020-12-15T22:56:25-06:00",
+    "timestamp": "2021-04-22T22:14:19-05:00"
+}

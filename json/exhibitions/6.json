@@ -1,0 +1,39 @@
+{
+    "id": 6,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6",
+    "title": "Watercolors by Winslow Homer: The Color of Light",
+    "is_featured": false,
+    "description": "This exhibition provides an intimate look at how one of America's most celebrated painters discovered for himself?over a period of three decades?the secrets of the watercolor medium. Over 100 watercolors, oils, and drawings will explore the artist's fascination with color and light. Tickets for this exhibition go on sale in December. Check here for updates.\n\nThis exhibition is organized by the Art Institute of Chicago. Terra Foundation for American Art is the Lead Foundation Sponsor as part of American Art American City, a Chicago celebration of historical American art. Harris is the Lead Corporate Sponsor. Additional support has been generously provided by the Jane Ellen Murray Foundation and the Community Associates of the Art Institute of Chicago. Support for the catalogue has been generously provided by The Elizabeth F. Cheney Foundation",
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2008-02-16T00:00:00-06:00",
+    "aic_end_at": "2008-05-11T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "American Art",
+    "gallery_id": 2147475902,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Watercolors by Winslow Homer: The Color of Light"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-04-21T23:16:32-05:00",
+    "timestamp": "2021-04-22T22:13:45-05:00"
+}

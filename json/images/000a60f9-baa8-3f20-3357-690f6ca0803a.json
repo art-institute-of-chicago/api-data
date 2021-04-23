@@ -1,0 +1,44 @@
+{
+    "id": "000a60f9-baa8-3f20-3357-690f6ca0803a",
+    "lake_guid": "000a60f9-baa8-3f20-3357-690f6ca0803a",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000a60f9-baa8-3f20-3357-690f6ca0803a",
+    "title": "E13449",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "ab45ef6f5109275f099501a29ea762b3",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000a60f9-baa8-3f20-3357-690f6ca0803a",
+    "width": 1920,
+    "height": 2250,
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADwsH0AzI00/KVA+JE9CKVlLNGBRNoNvQIZxTYB2T4V1T4x8Uo9+VIh9WKmRY72vdcGwecWxe8q5f8u9hwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIEAIweA8yRFNDQNJSoEsRggAOw==",
+    "colorfulness": 43.611,
+    "color": {
+        "h": 45,
+        "l": 44,
+        "s": 52,
+        "percentage": 0.009485114373670283,
+        "population": 79
+    },
+    "fingerprint": {
+        "ahash": "00063e7e7e7e7e00",
+        "dhash": "a9ecf0e8b492c8d8",
+        "phash": "952e6be06ac33995",
+        "whash": "000e3e7e7e7e7e00"
+    },
+    "artwork_ids": [
+        109620
+    ],
+    "artwork_titles": [
+        "Portrait of Daniel Hudson Burnham"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-09T19:44:24-06:00",
+    "timestamp": "2021-04-22T22:22:42-05:00"
+}

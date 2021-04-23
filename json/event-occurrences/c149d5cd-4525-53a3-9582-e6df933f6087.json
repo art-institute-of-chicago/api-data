@@ -1,0 +1,20 @@
+{
+    "id": "c149d5cd-4525-53a3-9582-e6df933f6087",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/c149d5cd-4525-53a3-9582-e6df933f6087",
+    "title": "Virtual Conversation: Change",
+    "event_id": 5238,
+    "short_description": "Explore artworks that reflect on the experience of change in this virtual conversation led by a museum educator.",
+    "description": "<p>Explore artworks that reflect on the experience of change in this virtual conversation led by a museum educator.</p><p>We recommend using a laptop or desktop computer, and downloading the latest version of&nbsp;<a href=\"https://support.zoom.us/hc/en-us/articles/360042414611-New-Updates-for-Zoom-Client\" target=\"_blank\">Zoom</a>&nbsp;to enjoy this program.</p><p>If you have any questions about virtual programming, please reach out to&nbsp;<a href=\"mailto:museum-programs@artic.edu\">museum-programs@artic.edu</a>.</p><p>Closed captioning will be available for this program. For questions related to accessibility accommodations, please email&nbsp;<a href=\"mailto:access@artic.edu\">access@artic.edu</a>.&nbsp;</p>",
+    "image_url": "https://artic-web.imgix.net/null7998bc68-1617-4e5d-af42-b62d4eeb8fc9/62fd0e14-d7fe-0d01-ab00-1eed84b4f294.jpg?rect=0%2C1125%2C2609%2C1465&auto=compress&fm=jpg&q=80&fit=crop&crop=faces%2Cedges%2Centropy&w=1200&h=674",
+    "is_private": false,
+    "start_at": "2021-05-12T14:00:00-05:00",
+    "end_at": "2021-05-12T14:45:00-05:00",
+    "location": "Virtual",
+    "button_url": "https://artic-edu.zoom.us/meeting/register/tJwtdumqpz0qG90t1-T_UhCtG2QHkSo6CYS6",
+    "button_text": "Register",
+    "button_caption": "<p>Free, registration required</p>",
+    "last_updated_source": "2021-04-05T15:47:32-05:00",
+    "last_updated": "2021-04-21T23:14:55-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

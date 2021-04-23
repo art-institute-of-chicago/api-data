@@ -1,0 +1,21 @@
+{
+    "id": 245260,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245260",
+    "title": "M.C. Escher Tie\u2014Blue",
+    "external_sku": 101022,
+    "image_url": "https://shop-images.imgix.net/101022_2.jpg",
+    "web_url": "https://shop.artic.edu/products/101022",
+    "description": "<p>Graphic artist M. C. Escher (Dutch, 1898\u20131972) played with architecture, perspective, and impossible spaces. Our silk tie features one of his classic compositions that transforms birds to fish to boats.</p>\n<p>Dry clean only</p>\n<p>Approx. 56 in.</p>",
+    "price_display": "<p>$30 <s>$55</s></p>",
+    "min_compare_at_price": 55,
+    "max_compare_at_price": 55,
+    "min_current_price": 30,
+    "max_current_price": 30,
+    "artist_ids": [],
+    "artwork_ids": [],
+    "exhibition_ids": [],
+    "last_updated_source": "2021-04-20T00:00:00-05:00",
+    "last_updated": "2021-04-21T23:01:36-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

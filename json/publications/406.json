@@ -1,0 +1,23 @@
+{
+    "id": 406,
+    "api_model": "publications",
+    "api_link": "https://api.artic.edu/api/v1/publications/406",
+    "title": "Whistler and Roussel: Linked Visions",
+    "web_url": "https://publications.artic.edu/whistler/reader/linkedvisions",
+    "site": "whistler",
+    "alias": "linkedvisions",
+    "section_ids": [
+        331298,
+        332113,
+        332929,
+        333746,
+        334564,
+        335383,
+        336203,
+        337846,
+        559804
+    ],
+    "last_updated_source": null,
+    "last_updated": "2020-05-01T09:12:22-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

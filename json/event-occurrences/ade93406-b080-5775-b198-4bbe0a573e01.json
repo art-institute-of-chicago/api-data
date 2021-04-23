@@ -1,0 +1,20 @@
+{
+    "id": "ade93406-b080-5775-b198-4bbe0a573e01",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/ade93406-b080-5775-b198-4bbe0a573e01",
+    "title": "Virtual Conversation: Caroline Kent\u2014Not buried, just under the surface",
+    "event_id": 5245,
+    "short_description": "Join Chicago-based artist Caroline Kent and curators of Modern and Contemporary Art Jordan Carter and Hendrik Folkerts for a conversation on Kent\u2019s practice as an abstract painter.",
+    "description": "<p>What are the conditions from which a new visual language can emerge?</p><p>Join Chicago-based artist Caroline Kent; Jordan Carter, associate curator of Modern and Contemporary Art; and Hendrik Folkerts, Dittmer Curator of Modern and Contemporary Art,&nbsp;for a conversation on the intimate vocabularies that shape Kent\u2019s practice as an abstract painter.</p><p><strong>About the Artist</strong></p><p>Caroline Kent is a Chicago-based artist.&nbsp;Kent received a BS from Illinois State University (1998) and an MFA from the University of Minnesota (2008). She will present a solo exhibition, <em>Chicago Works: Caroline Kent</em>, at the Museum of Contemporary Art, Chicago, opening in August 2021. Previously, Kent\u2019s work has been exhibited at institutions such as the Walker Art Center, Minnesota; the DePaul Art Museum, Chicago; the California African American Museum, Los Angeles; the FLAG Art Foundation, New York; The Suburban, Oak Park, Illinois; and the Museum of Contemporary Art, Chicago. Kent has received grants from the Pollock-Krasner Foundation, the McKnight Foundation, and the Jerome Foundation. In 2018, she was a Paint School fellow with the New York-based program Shandaken Projects. Most recently, she was selected as a 2020 awardee of the Artadia Foundation Chicago. Kent\u2019s work is in the collections of the Walker Art Center, the Art Institute of Chicago, the New Orleans Museum of Art, and the Dallas Museum of Art. The artist is represented by Casey Kaplan, New York; Kohn Gallery, Los Angeles; and Patron Gallery, Chicago. Kent is an assistant professor of painting at the Weinberg College of Arts and Sciences at Northwestern University.</p><p>We recommend using a laptop or desktop computer and downloading the latest version of&nbsp;<a href=\"https://support.zoom.us/hc/en-us/articles/360042414611-New-Updates-for-Zoom-Client\" target=\"_blank\">Zoom</a>&nbsp;to enjoy this program.</p><p>If you have any questions about virtual programming, please reach out to&nbsp;<a href=\"mailto:museum-programs@artic.edu\">museum-programs@artic.edu</a>.</p><p>For questions related to accessibility accommodations, please email&nbsp;<a href=\"mailto:access@artic.edu\">access@artic.edu</a>.&nbsp;</p>",
+    "image_url": "https://artic-web.imgix.net/null8686322c-4da7-46d5-98b0-3ef1edfa486d/CarolineKentNotburied%2CbutjustunderthesurfaceORIGINAL.jpg?rect=0%2C938%2C1886%2C1055&auto=compress&fm=jpg&q=80&fit=crop&crop=faces%2Cedges%2Centropy&w=1200&h=671",
+    "is_private": false,
+    "start_at": "2021-05-05T18:00:00-05:00",
+    "end_at": "2021-05-05T19:00:00-05:00",
+    "location": "Virtual",
+    "button_url": "https://artic-edu.zoom.us/meeting/register/tJwpc-iqrD8qGdJY-ygqq-yVbF7je-Gnmr6Q",
+    "button_text": "Register",
+    "button_caption": "<p>Free, registration required</p>",
+    "last_updated_source": "2021-04-16T10:27:54-05:00",
+    "last_updated": "2021-04-21T23:14:54-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

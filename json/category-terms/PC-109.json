@@ -1,0 +1,21 @@
+{
+    "id": "PC-109",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/PC-109",
+    "title": "Art Institute Icons",
+    "subtype": "theme",
+    "parent_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Art Institute Icons"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "2019-05-08T18:03:01-05:00",
+    "last_updated": "2019-05-09T17:01:10-05:00",
+    "timestamp": "2021-04-22T22:13:45-05:00"
+}

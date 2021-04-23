@@ -1,0 +1,45 @@
+{
+    "id": 106,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/106",
+    "title": "Magdalena Abakanowicz",
+    "sort_title": "Abakanowicz, Magdalena",
+    "alt_titles": [
+        "Magdalena Abakanawicz",
+        "Magdalena Abakanowicz Kosmowski",
+        "Magudarena Abakanovitchi"
+    ],
+    "birth_date": 1930,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "description": null,
+    "is_licensing_restricted": null,
+    "is_artist": true,
+    "agent_type_title": "Individual",
+    "agent_type_id": 7,
+    "artwork_ids": [
+        150891,
+        94155,
+        73781
+    ],
+    "site_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Magdalena Abakanowicz",
+            "Abakanowicz, Magdalena",
+            "Magdalena Abakanawicz",
+            "Magdalena Abakanowicz Kosmowski",
+            "Magudarena Abakanovitchi"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2019-05-14T15:20:20-05:00",
+    "timestamp": "2021-04-22T22:13:43-05:00"
+}

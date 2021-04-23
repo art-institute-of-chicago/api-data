@@ -1,0 +1,13 @@
+{
+    "id": 40,
+    "api_model": "closures",
+    "api_link": "https://api.artic.edu/api/v1/closures/40",
+    "title": "Lorem ipsum.",
+    "date_start": "2021-03-23T00:00:00-05:00",
+    "date_end": "2021-03-24T00:00:00-05:00",
+    "closure_copy": "<p>The museum is closed today.&nbsp;<a href=\"https://www.artic.edu/visit#hours\" target=\"_blank\">View our hours.</a></p>",
+    "type": 0,
+    "last_updated_source": "2021-03-15T09:21:58-05:00",
+    "last_updated": "2021-04-21T23:07:26-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

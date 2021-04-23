@@ -1,0 +1,25 @@
+{
+    "id": 245285,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245285",
+    "title": "Georges Seurat A Sunday on La Grande Jatte Tote",
+    "external_sku": 101127,
+    "image_url": "https://shop-images.imgix.net/101127_2.jpg",
+    "web_url": "https://shop.artic.edu/products/101127",
+    "description": "<p>Taking Georges Seurat\u2019s (French, 1859\u20131891) masterpiece <em>A Sunday on La Grande</em> <em>Jatte</em> as its inspiration, this tote is perfect for a rainy day.</p>\n<p>Constructed of polyester, the tote features a zip-top. 16 1/2 x 12 in.</p>",
+    "price_display": "<p>$40</p>",
+    "min_compare_at_price": null,
+    "max_compare_at_price": null,
+    "min_current_price": 40,
+    "max_current_price": 40,
+    "artist_ids": [
+        40810
+    ],
+    "artwork_ids": [
+        27992
+    ],
+    "exhibition_ids": [],
+    "last_updated_source": "2021-04-20T00:00:00-05:00",
+    "last_updated": "2021-04-21T23:01:36-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

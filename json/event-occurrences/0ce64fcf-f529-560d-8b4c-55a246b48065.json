@@ -1,0 +1,20 @@
+{
+    "id": "0ce64fcf-f529-560d-8b4c-55a246b48065",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/0ce64fcf-f529-560d-8b4c-55a246b48065",
+    "title": "Luminary Tour: Hartwell Memorial Window",
+    "event_id": 5190,
+    "short_description": "Connect with fellow Luminary members on a guided small-group tour of the arts of the Americas galleries culminating in a visit to the monumental Hartwell Memorial Window.",
+    "description": "<p>Connect with fellow Luminary members on a guided small-group tour of the arts of the Americas galleries culminating in a visit to the monumental <a href=\"/exhibitions/9536/landscape-in-light-the-tiffany-window-at-the-art-institute-of-chicago\" target=\"_blank\"><em>Hartwell Memorial Window</em></a>.<em> </em>You\u2019ll delve deep into the new installation, a technical marvel in the medium of glass and a work of stunning beauty that is attributed to Tiffany\u2019s foremost landscape window designer, Agnes Northrop.</p><p>Open exclusively to Luminary members, this tour requires advance registration and is limited to eight participants. The tour lasts approximately 50 minutes. <a href=\"/events?audience=8\" target=\"_blank\">View all upcoming Luminary tours.</a></p><p>Physical distancing and other<a href=\"/visit#expect\">&nbsp;visiting policies</a>&nbsp;must be observed. These include but are not limited to wearing a face covering and not attending if you are experiencing any COVID-19 symptoms.</p><p>Coat and bag check, dining, and valet services are currently unavailable.</p><p>Find further information on<a href=\"/highlights/26/what-to-expect\">&nbsp;What to Expect</a>&nbsp;on our website.</p><p><strong>Contact Us</strong></p><p>If you have questions or are interested in learning more about&nbsp;<a href=\"/support-us/membership/luminary-levels\" target=\"_blank\">Luminary membership</a>, we\u2019d be delighted to hear from you. Please contact us at (312) 443-3735 or&nbsp;<a href=\"mailto:luminary@artic.edu\">luminary@artic.edu</a>.</p>",
+    "image_url": "https://artic-web.imgix.net/null0cb87a7d-efa3-471e-9016-a8dd1ec8ce2e/HartwellMemorialWindow.jpg?rect=0%2C937%2C3609%2C2031&auto=compress&fm=jpg&q=80&fit=crop&crop=faces%2Cedges%2Centropy&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2021-06-02T11:00:00-05:00",
+    "end_at": "2021-06-02T12:00:00-05:00",
+    "location": null,
+    "button_url": "https://sales.artic.edu/Events/Event/22936?date=6/2/2021",
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>$50 per person</p><p>This tour is limited to eight participants.</p>",
+    "last_updated_source": "2021-03-25T17:13:25-05:00",
+    "last_updated": "2021-04-21T23:14:56-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "ba548447-8472-53c3-9e63-cc05a917ddf6",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/ba548447-8472-53c3-9e63-cc05a917ddf6",
+    "title": "Virtual Walk-Through: Monet and Chicago",
+    "event_id": 5181,
+    "short_description": "Join museum curators for a special overview of the works featured in Monet and Chicago before the exhibition closes.",
+    "description": "<p>Experience the highly acclaimed exhibition <a href=\"/exhibitions/9036/monet-and-chicago\" target=\"_blank\"><em>Monet and Chicago</em></a><em> </em>before it closes, with this virtual tour led by Gloria Groom, Chair and David and Mary Winton Green Curator of Painting and Sculpture of Europe and Katie Kremnitzer, research associate in Painting and Sculpture of Europe. </p><p>We recommend using a laptop or desktop computer and downloading the latest version of <a href=\"https://support.zoom.us/hc/en-us/articles/360042414611-New-Updates-for-Zoom-Client\" target=\"_blank\">Zoom</a> to enjoy this program.</p><p>If you have any questions about virtual programming, please reach out to <a href=\"mailto:museum-programs@artic.edu\">museum-programs@artic.edu</a>.</p><p>Closed captioning will be available for this program. For questions related to accessibility accommodations, please email <a href=\"mailto:access@artic.edu\">access@artic.edu</a>.&nbsp;</p>",
+    "image_url": "https://artic-web.imgix.net/nulld56fc80c-1557-4c35-a0a2-7e1968b81edb/IM044633-int_press.jpg?rect=0%2C989%2C3000%2C1685&auto=compress&fm=jpg&q=80&fit=crop&crop=faces%2Cedges%2Centropy&w=1200&h=674",
+    "is_private": false,
+    "start_at": "2021-06-08T17:00:00-05:00",
+    "end_at": "2021-06-08T05:45:00-05:00",
+    "location": "Virtual",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>Free, registration required<br>Registration link available soon</p>",
+    "last_updated_source": "2021-03-04T10:19:11-06:00",
+    "last_updated": "2021-04-21T23:14:59-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

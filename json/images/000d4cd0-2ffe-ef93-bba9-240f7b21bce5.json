@@ -1,0 +1,44 @@
+{
+    "id": "000d4cd0-2ffe-ef93-bba9-240f7b21bce5",
+    "lake_guid": "000d4cd0-2ffe-ef93-bba9-240f7b21bce5",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000d4cd0-2ffe-ef93-bba9-240f7b21bce5",
+    "title": "PD_062414_09",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "bcfd49ae8cf225f83c6d78917d551a1d",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000d4cd0-2ffe-ef93-bba9-240f7b21bce5",
+    "width": 2256,
+    "height": 3000,
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAHBhTX1sVoFzXYp8Zo6AaY+CaaWSeqSVeqaWe6OVfLytkcCuksKxlsaxlcS3m9DApNHEqNjGqeHQtO3ixAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4KI8DOJMCVFAAyAcgSFFTQgAOw==",
+    "colorfulness": 22.013,
+    "color": {
+        "h": 40,
+        "l": 90,
+        "s": 84,
+        "percentage": 0.16306826539175007,
+        "population": 1541
+    },
+    "fingerprint": {
+        "ahash": "df9dbc9c8c00187f",
+        "dhash": "32397d393935f3d0",
+        "phash": "9afea529b305b603",
+        "whash": "df9d9c9d0804187f"
+    },
+    "artwork_ids": [
+        94100
+    ],
+    "artwork_titles": [
+        "Short Bull, from 1776 USA 1976: Bicentennial Prints"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-09T20:30:09-06:00",
+    "timestamp": "2021-04-22T22:20:09-05:00"
+}

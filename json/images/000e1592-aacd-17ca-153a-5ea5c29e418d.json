@@ -1,0 +1,44 @@
+{
+    "id": "000e1592-aacd-17ca-153a-5ea5c29e418d",
+    "lake_guid": "000e1592-aacd-17ca-153a-5ea5c29e418d",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000e1592-aacd-17ca-153a-5ea5c29e418d",
+    "title": "14946",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "1ec12a2a07c9034005717a089c5d5cd0",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000e1592-aacd-17ca-153a-5ea5c29e418d",
+    "width": 2336,
+    "height": 3504,
+    "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAALOtkLaxlMG8o8K8osfCp8XBqMfDqcbCqtDMt9POt9PPuNPPudPQutTQutTRuwAAACH5BAAAAAAALAAAAAADAAUAAAQL8AxUgBKhGbJcYhEAOw==",
+    "colorfulness": 14.7474,
+    "color": {
+        "h": 50,
+        "l": 52,
+        "s": 21,
+        "percentage": 0.0044073725026842776,
+        "population": 47
+    },
+    "fingerprint": {
+        "ahash": "8b83c783839fbfff",
+        "dhash": "131b0d1f1f3b6961",
+        "phash": "bb30ca8fc1c6c4e6",
+        "whash": "838183838383bfff"
+    },
+    "artwork_ids": [
+        13209
+    ],
+    "artwork_titles": [
+        "Chancellerie, Loches"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-08T21:51:35-06:00",
+    "timestamp": "2021-04-22T22:16:50-05:00"
+}

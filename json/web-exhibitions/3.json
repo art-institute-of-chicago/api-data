@@ -1,0 +1,14 @@
+{
+    "id": 3,
+    "api_model": "web-exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/web-exhibitions/3",
+    "title": "Andy Warhol\u2013From A to B and Back Again",
+    "exhibition_id": 2937,
+    "is_featured": false,
+    "header_copy": "<p>A penetrating and panoramic look at an artist whose \u201c15 minutes\u201d endure</p>",
+    "list_description": "<p>Featuring more than 400 works, this exhibition offers a new view of the beloved and iconic American Pop artist.</p>",
+    "exhibition_message": "<p>This exhibition requires a $7 special exhibition ticket.</p>",
+    "last_updated_source": "2020-09-22T13:11:21-05:00",
+    "last_updated": "2021-04-21T23:15:24-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

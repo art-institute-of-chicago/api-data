@@ -1,0 +1,21 @@
+{
+    "id": 245304,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245304",
+    "title": "Sky Umbrella",
+    "external_sku": 101235,
+    "image_url": "https://shop-images.imgix.net/101235_2.jpg",
+    "web_url": "https://shop.artic.edu/products/101235",
+    "description": "<p>Turn gray skies to blue every time you open our collapsible umbrella. 10 in. closed length; opens to 37 in. diameter.</p>",
+    "price_display": "<p>$45</p>",
+    "min_compare_at_price": null,
+    "max_compare_at_price": null,
+    "min_current_price": 45,
+    "max_current_price": 45,
+    "artist_ids": [],
+    "artwork_ids": [],
+    "exhibition_ids": [],
+    "last_updated_source": "2021-04-20T00:00:00-05:00",
+    "last_updated": "2021-04-21T23:01:36-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

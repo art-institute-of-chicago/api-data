@@ -1,0 +1,14 @@
+{
+    "id": 10,
+    "api_model": "web-exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/web-exhibitions/10",
+    "title": "Design Episodes: Form, Style, Language",
+    "exhibition_id": 2710,
+    "is_featured": false,
+    "header_copy": null,
+    "list_description": "This exhibition features three provocative episodes or vignettes: the modern chair, the emergence of postmodern design, and contemporary identity systems in graphic design.",
+    "exhibition_message": null,
+    "last_updated_source": "2018-05-15T17:31:29-05:00",
+    "last_updated": "2021-04-21T23:19:49-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

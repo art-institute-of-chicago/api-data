@@ -1,0 +1,39 @@
+{
+    "id": 84,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/84",
+    "title": "On the Scene: Jessica Rowe, Jason Salavon, Brian Ulrich",
+    "is_featured": false,
+    "description": "Drawing on the dynamic photography scene in Chicago, this exhibition focuses on work by three younger talents: Jessica Rowe, Jason Salavon, and Brian Ulrich. Jessica Rowe photographs spaces in our homes where we display the objects, photos, and memorabilia that we want others to see: old portraits atop a dresser, statues on a mantel, or cherished book collections. Over the past year, in a series called Remnant, she has turned this attention to even more intimate objects\u2014clothing. Her poignant still lifes of clothing once worn by women she has known who are now deceased invite us to conjure the missing figures, even the personalities, of the wearers. \n\nJason Salavon\u2019s images force the viewer to completely reconsider the boundaries and definition of photography as a medium. His photographs often do not require the camera at all, created as they are from accumulated data and its digital output. For example, in The Top Grossing Film of All Time 1 x 1, Salavon represents the color average of each individual frame of the 1997 film Titanic, all sequenced in a grid just as they occur in the film. There are blue squares of daylight scenes, white ones of the first glimpse of the iceberg, and long stretches of dark frames in the aftermath of the ship\u2019s sinking.\n\nBrian Ulrich has a keen eye for distilling contemporary life in all its abundance and indecision. Ulrich\u2019s photographs record people in the act of making choices. In one series, students decide how to portray themselves before his camera. In Copia, another series, he photographs less-aware subjects in the refrigerated section of the local grocery store or at a high-volume bridal salon. Interested in the acts of consumption that dominate Western society, Copia provides arresting portraits of a culture in which buying coexists with our own power, identity, and isolation.\"\n\nOrganizer\nOn the Scene: Jessica Rowe, Jason Salavon, Brian Ulrich is organized by the Art Institute of Chicago.\n\nCurator\nKatherine A. Bussard, assistant curator, Department of Photography.",
+    "short_description": "Drawing on the dynamic photography scene in Chicago, this exhibition focuses on work by three younger talents: Jessica Rowe, Jason Salavon, and Brian Ulrich. Jessica Rowe photographs spaces in our homes where we display the objects, photos, and memorabilia that we want others to see: old portraits atop a dresser, statues on a mantel, or cherished book collections. Over the past year, in a series called Remnant, she has turned this attention to even more intimate objects\u2014clothing.",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/84/on-the-scene-jessica-rowe-jason-salavon-brian-ulrich",
+    "image_url": "https://artic-web.imgix.net/045d1354-0fd4-4b71-8e6e-eaca72321efc/onthescene.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C295%2C2999%2C1687",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2005-11-12T00:00:00-06:00",
+    "aic_end_at": "2006-01-28T00:00:00-06:00",
+    "date_display": null,
+    "department_display": "Photography",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "On the Scene: Jessica Rowe, Jason Salavon, Brian Ulrich"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-04-21T23:19:12-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

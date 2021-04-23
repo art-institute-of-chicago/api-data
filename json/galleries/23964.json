@@ -1,0 +1,16 @@
+{
+    "id": 23964,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/23964",
+    "title": "Gallery 290 (Vestibule)",
+    "type": "AIC Gallery",
+    "is_closed": false,
+    "number": "290",
+    "floor": "2",
+    "latitude": 41.880426183464,
+    "longitude": -87.622010094234,
+    "latlon": "41.880426183464,-87.622010094234",
+    "last_updated_source": "2019-04-11T11:54:49-05:00",
+    "last_updated": "2019-05-14T14:24:56-05:00",
+    "timestamp": "2021-04-22T22:13:43-05:00"
+}

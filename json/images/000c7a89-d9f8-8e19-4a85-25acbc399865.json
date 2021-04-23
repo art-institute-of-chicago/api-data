@@ -1,0 +1,44 @@
+{
+    "id": "000c7a89-d9f8-8e19-4a85-25acbc399865",
+    "lake_guid": "000c7a89-d9f8-8e19-4a85-25acbc399865",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000c7a89-d9f8-8e19-4a85-25acbc399865",
+    "title": "19721",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "3c8bc9bb19756aeaefe4bc7042ed0433",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000c7a89-d9f8-8e19-4a85-25acbc399865",
+    "width": 3504,
+    "height": 2336,
+    "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAADczLzg1KTo9Mzg4ND49NT4+NkRIN0VFOkhNPFhbRWFgQGdlQoKBfIWGgZGRiZCQi5aRipiRjKKjm6KjnaSknaqrn6iooKqroq2roqytoMC/tsDBuMPDueDh1uHh1uDi1+nr4Ors4evs4ezt4uzu4gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwA8Hc5FQNJ0QhCAoDCKgkcOASBweIhIjoFgAGqPOxpKpTDaeIAA7",
+    "colorfulness": 13.6016,
+    "color": {
+        "h": 54,
+        "l": 51,
+        "s": 27,
+        "percentage": 0.009709434615400851,
+        "population": 46
+    },
+    "fingerprint": {
+        "ahash": "ffc18181818181ff",
+        "dhash": "432f171b3b333347",
+        "phash": "e966c699d3199163",
+        "whash": "ffc3c381818181ff"
+    },
+    "artwork_ids": [
+        102739
+    ],
+    "artwork_titles": [
+        "Symphonic Metamorphosis #1"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-08T22:12:27-06:00",
+    "timestamp": "2021-04-22T22:15:29-05:00"
+}

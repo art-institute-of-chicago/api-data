@@ -1,0 +1,23 @@
+{
+    "id": 246003,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/246003",
+    "title": "Edgar Degas Little Fourteen-Year-Old Dancer Sculpture",
+    "external_sku": 109017,
+    "image_url": "https://shop-images.imgix.net/109017_2.jpg",
+    "web_url": "https://shop.artic.edu/products/109017",
+    "description": "<p>Adapted from the only sculpture Edgar Degas (French, 1834\u20131917) exhibited during his lifetime, <em>Little Fourteen-Year-Old Dancer</em>. The resin figure is hand-cast and hand-finished.</p>\n<p><em>Additional shipping $15</em>.</p>\n<p>5 1/4 x 13 1/2 x 5 1/2 in.</p>",
+    "price_display": "<p>$120</p>",
+    "min_compare_at_price": null,
+    "max_compare_at_price": null,
+    "min_current_price": 120,
+    "max_current_price": 120,
+    "artist_ids": [
+        40543
+    ],
+    "artwork_ids": [],
+    "exhibition_ids": [],
+    "last_updated_source": "2021-04-20T00:00:00-05:00",
+    "last_updated": "2021-04-21T23:01:37-05:00",
+    "timestamp": "2021-04-22T22:13:48-05:00"
+}

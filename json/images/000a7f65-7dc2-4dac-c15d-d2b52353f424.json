@@ -1,0 +1,44 @@
+{
+    "id": "000a7f65-7dc2-4dac-c15d-d2b52353f424",
+    "lake_guid": "000a7f65-7dc2-4dac-c15d-d2b52353f424",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000a7f65-7dc2-4dac-c15d-d2b52353f424",
+    "title": "PD_091814_26",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "2cde80303276bcb54060bb23f5a009c3",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000a7f65-7dc2-4dac-c15d-d2b52353f424",
+    "width": 3000,
+    "height": 2318,
+    "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJ2ajby5q9rYyt7bzt7czuDdz+He0OLf0uTg1OXh1eTi1eXj1uXj1+bj1ubk1ubk1+bl2Ofm2Ojl2enm2unn2urn2uvm2+zn2+ro2ero2+vo2+zp3e/s4PDt4gAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYoDVJjIZsC0QERUdlAmBwVeRgx9U8ypCEADs=",
+    "colorfulness": 8.9833,
+    "color": {
+        "h": 43,
+        "l": 48,
+        "s": 9,
+        "percentage": 0.004191015555956436,
+        "population": 23
+    },
+    "fingerprint": {
+        "ahash": "fffef8f9f9fef9f9",
+        "dhash": "8304231303041333",
+        "phash": "e949969669699696",
+        "whash": "f1d0d0f0f8f8f881"
+    },
+    "artwork_ids": [
+        96973
+    ],
+    "artwork_titles": [
+        "Plate II, from Fifth Stone, Sixth Stone"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-09T20:23:35-06:00",
+    "timestamp": "2021-04-22T22:20:26-05:00"
+}

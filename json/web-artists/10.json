@@ -1,0 +1,12 @@
+{
+    "id": 10,
+    "api_model": "web-artists",
+    "api_link": "https://api.artic.edu/api/v1/web-artists/10",
+    "title": "Displays Fine Art Services",
+    "has_also_known_as": null,
+    "intro_copy": null,
+    "agent_id": 111965,
+    "last_updated_source": "2018-06-13T13:37:13-05:00",
+    "last_updated": "2021-04-21T23:07:22-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

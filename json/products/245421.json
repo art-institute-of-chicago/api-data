@@ -1,0 +1,25 @@
+{
+    "id": 245421,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245421",
+    "title": "Edward Hopper Nighthawks Umbrella",
+    "external_sku": 102863,
+    "image_url": "https://shop-images.imgix.net/102863_2.jpg",
+    "web_url": "https://shop.artic.edu/products/102863",
+    "description": "<p>Inspired by by Edward Hopper's  (American, 1882-1967) <em>Nighthawks</em>, our umbrella is polyester on a silver steel frame. Auto-open.</p>\n<p>10 1/2 in.</p>",
+    "price_display": "<p>$38</p>",
+    "min_compare_at_price": null,
+    "max_compare_at_price": null,
+    "min_current_price": 38,
+    "max_current_price": 38,
+    "artist_ids": [
+        34996
+    ],
+    "artwork_ids": [
+        111628
+    ],
+    "exhibition_ids": [],
+    "last_updated_source": "2021-04-20T00:00:00-05:00",
+    "last_updated": "2021-04-21T23:01:37-05:00",
+    "timestamp": "2021-04-22T22:13:48-05:00"
+}

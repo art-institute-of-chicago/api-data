@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "api_model": "event-programs",
+    "api_link": "https://api.artic.edu/api/v1/event-programs/2",
+    "title": "Family Festivals",
+    "is_affiliate_group": false,
+    "is_event_host": false,
+    "last_updated_source": "2018-08-10T10:48:54-05:00",
+    "last_updated": "2021-04-21T23:15:08-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

@@ -1,0 +1,54 @@
+{
+    "id": 93,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/93",
+    "title": "Faces, Places & Inner spaces",
+    "is_featured": false,
+    "description": "Faces, Places, and Inner Spaces, a new interactive exhibition in the Hammerman Gallery of the Kraft Education Center, introduces you to a selection of art from Asia, Europe, and the Americas. Here, you can explore 5 of the 11 works of art in the exhibition and take a virtual tour of the gallery space. Play games, look, read, and have fun!\n\nRead and learn more with the publication Faces, Places, and Inner Spaces, the award-winning book by Jean Sousa. \n\nTeachers, find sample lesson plans and a bibliography from the Faces, Places, and Inner Spaces teacher manual. This manual and many others are available from the Elizabeth Stone Robson Teacher Resource Center.\n\n \n\nTake a WALK THROUGH THE EXHIBITION!\n\n \n\nCurator: Jean Sousa, Director, Interpretive Exhibitions and Family Programs, Department of Museum Education, the Art Institute of Chicago.\n\nSponsors: Faces, Places, and Inner Spaces was organized by the Art Institute of Chicago and is supported by a gift from the Dr. Scholl Foundation. Ongoing programs are supported by the Siragusa Foundation.\n\nMet Life Foundation\nThis exhibition was awarded a MetLife Foundation Museum Connections grant.\n\n\nMajor support has been received from The Searle Family Fund at The Chicago Community Trust.",
+    "short_description": "Faces, Places, and Inner Spaces, a new interactive exhibition in the Hammerman Gallery of the Kraft Education Center, introduces you to a selection of art from Asia, Europe, and the Americas. Here, you can explore 5 of the 11 works of art in the exhibition and take a virtual tour of the gallery space. Play games, look, read, and have fun!",
+    "web_url": "https://nocache.www.artic.edu/exhibitions/93/faces-places-inner-spaces",
+    "image_url": "https://artic-web.imgix.net/9cf6353e-0a47-4e3b-a526-d195c9806fa6/Motley.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C220%2C1616%2C905",
+    "type": "AIC Only",
+    "status": "Closed",
+    "aic_start_at": "2006-06-14T00:00:00-05:00",
+    "aic_end_at": "2007-07-08T00:00:00-05:00",
+    "date_display": null,
+    "department_display": "Learning & Public Engagement",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        140644
+    ],
+    "artwork_titles": [
+        "Self-Portrait"
+    ],
+    "artist_ids": [
+        42445,
+        37327,
+        79635,
+        15033,
+        30129,
+        30175,
+        36681,
+        43617
+    ],
+    "site_ids": [
+        5
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Faces, Places & Inner spaces"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2021-04-21T23:19:12-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 8,
+    "api_model": "generic-pages",
+    "api_link": "https://api.artic.edu/api/v1/generic-pages/8",
+    "title": "Accessibility",
+    "type": null,
+    "web_url": "https://nocache.www.artic.edu/visit/accessibility",
+    "slug": "accessibility",
+    "image_url": null,
+    "listing_description": "<p>The Art Institute of Chicago welcomes all visitors and is committed to making its services accessible to everyone. We offer a range of resources for both adults and children with disabilities.</p>",
+    "short_description": "<p>The Art Institute of Chicago welcomes all visitors and is committed to making its programs and services accessible to everyone. We offer a range of resources and programs designed specifically for adults and children with disabilities.</p>",
+    "copy": " Persons with disabilities who would like to request an accessibility accommodation for an Art Institute program are encouraged to send an email to access@artic.edu as far in advance as possible. Service animals are welcome at the museum. ",
+    "search_tags": null,
+    "last_updated_source": "2020-08-27T15:58:11-05:00",
+    "last_updated": "2021-04-21T23:20:47-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

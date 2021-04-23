@@ -1,0 +1,44 @@
+{
+    "id": "000da6f9-dd6f-3e63-e118-d9d65b947f39",
+    "lake_guid": "000da6f9-dd6f-3e63-e118-d9d65b947f39",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000da6f9-dd6f-3e63-e118-d9d65b947f39",
+    "title": "PH_09705",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "ae0761ec4361858b63b1104377733335",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000da6f9-dd6f-3e63-e118-d9d65b947f39",
+    "width": 3000,
+    "height": 2091,
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFEwMX00KptfHrpyFaFFK8JbHcN0Fsd5EdZ0F8VrJd15J/CmHN2eO+GOKe+pM96aT+q1T+CzVuW5WeW+Z+3GWb/Du9bCkdjAn+LIiubTnd7JpMnJvtzPstLNud/XuN7Zu9zau9DTxuDe0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwM3HM2FYKhpHIzFYcCCCAAFQuEgOBgXiIepEKBkMKBQEADs=",
+    "colorfulness": 111.6772,
+    "color": {
+        "h": 42,
+        "l": 50,
+        "s": 89,
+        "percentage": 0.3813346105112552,
+        "population": 1887
+    },
+    "fingerprint": {
+        "ahash": "fffb83818181bfff",
+        "dhash": "a6874727372b7630",
+        "phash": "ac65d71d5827331a",
+        "whash": "72f3818181819fff"
+    },
+    "artwork_ids": [
+        159960
+    ],
+    "artwork_titles": [
+        "Poppies, Red & Orange #5"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-09T18:44:42-06:00",
+    "timestamp": "2021-04-22T22:22:20-05:00"
+}

@@ -1,0 +1,26 @@
+{
+    "id": 162,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/162",
+    "title": "Maurice-Victor Achener",
+    "sort_title": "Achener, Maurice-Victor",
+    "alt_titles": [
+        "Achener, Maurice"
+    ],
+    "birth_date": 1881,
+    "birth_place": null,
+    "death_date": null,
+    "death_place": null,
+    "description": null,
+    "is_licensing_restricted": null,
+    "is_artist": true,
+    "agent_type_title": "Individual",
+    "agent_type_id": 7,
+    "artwork_ids": [
+        11903
+    ],
+    "site_ids": [],
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2019-05-13T10:19:46-05:00",
+    "timestamp": "2021-04-22T22:13:43-05:00"
+}

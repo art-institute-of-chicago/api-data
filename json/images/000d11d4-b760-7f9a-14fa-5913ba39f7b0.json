@@ -1,0 +1,44 @@
+{
+    "id": "000d11d4-b760-7f9a-14fa-5913ba39f7b0",
+    "lake_guid": "000d11d4-b760-7f9a-14fa-5913ba39f7b0",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000d11d4-b760-7f9a-14fa-5913ba39f7b0",
+    "title": "PD_051816_31",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "f587008f9e0489e60c87e4696bfd13bd",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000d11d4-b760-7f9a-14fa-5913ba39f7b0",
+    "width": 2150,
+    "height": 3000,
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFFFNlNJPGNYSmdeUXBjT2phU25lV3VoVndrV3VqWIByXIByYIN1Y4V3Y4d5ZIl6ZZB+Yp2NdJiLeaSWfwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIAQEyrEISTERyCAxhvM0UQgAOw==",
+    "colorfulness": 25.3307,
+    "color": {
+        "h": 42,
+        "l": 92,
+        "s": 68,
+        "percentage": 0.02400723041292436,
+        "population": 238
+    },
+    "fingerprint": {
+        "ahash": "8181b9b9b9b93de3",
+        "dhash": "3339616361497547",
+        "phash": "ab78305ae58d6a8e",
+        "whash": "818191b9b9b9bdc3"
+    },
+    "artwork_ids": [
+        93759
+    ],
+    "artwork_titles": [
+        "Three Monks Crossing a Bridge Over a Cataract"
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-09T20:44:43-06:00",
+    "timestamp": "2021-04-22T22:19:36-05:00"
+}

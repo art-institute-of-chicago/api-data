@@ -1,0 +1,13 @@
+{
+    "id": 56,
+    "api_model": "closures",
+    "api_link": "https://api.artic.edu/api/v1/closures/56",
+    "title": "Lorem ipsum.",
+    "date_start": "2021-04-01T00:00:00-05:00",
+    "date_end": "2021-04-05T00:00:00-05:00",
+    "closure_copy": "<p>Open today 10\u201311 a.m. members | 11 a.m.\u20136 p.m. public.&nbsp;<a href=\"https://www.artic.edu/visit\" target=\"_blank\">Learn more.</a></p>",
+    "type": 0,
+    "last_updated_source": "2021-04-02T11:57:34-05:00",
+    "last_updated": "2021-04-21T23:07:24-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

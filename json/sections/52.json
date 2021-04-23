@@ -1,0 +1,20 @@
+{
+    "id": 52,
+    "api_model": "sections",
+    "api_link": "https://api.artic.edu/api/v1/sections/52",
+    "title": "Catalogue",
+    "web_url": "https://publications.artic.edu/americansilver/reader/collection/section/7",
+    "accession": null,
+    "revision": 1562005734,
+    "source_id": 7,
+    "weight": 5,
+    "generic_page_id": null,
+    "artwork_id": null,
+    "parent_id": null,
+    "publication_title": "American Silver in the Art Institute of Chicago",
+    "publication_id": 2,
+    "content": "<section id=\"figures\"></section>",
+    "last_updated_source": null,
+    "last_updated": "2020-05-01T09:13:07-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

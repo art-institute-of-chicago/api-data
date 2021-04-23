@@ -1,0 +1,20 @@
+{
+    "id": 128,
+    "api_model": "sections",
+    "api_link": "https://api.artic.edu/api/v1/sections/128",
+    "title": "Pissarro Paintings and Works on Paper at the Art Institute of Chicago",
+    "web_url": "https://publications.artic.edu/pissarro/reader/paintingsandpaper/section/8",
+    "accession": null,
+    "revision": 1582818526,
+    "source_id": 8,
+    "weight": 0,
+    "generic_page_id": 9,
+    "artwork_id": null,
+    "parent_id": null,
+    "publication_title": "Pissarro Paintings and Works on Paper at the Art Institute of Chicago",
+    "publication_id": 7,
+    "content": "<section id=\"figures\"></section>",
+    "last_updated_source": null,
+    "last_updated": "2020-05-01T09:13:04-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

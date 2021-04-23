@@ -1,0 +1,14 @@
+{
+    "id": 2,
+    "api_model": "web-exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/web-exhibitions/2",
+    "title": "Manet and Modern Beauty",
+    "exhibition_id": 2822,
+    "is_featured": false,
+    "header_copy": "<p>The first Art Institute exhibition devoted exclusively to \u00c9douard Manet in over 50 years focuses on the transformation of the artist\u2019s style in his later years.</p>",
+    "list_description": "<p>The first Art Institute exhibition devoted exclusively to \u00c9douard Manet in over 50 years focuses on the artist's work in his later years\u2014favorite actresses and models, illustrated letters, and elegant still lifes.</p>",
+    "exhibition_message": "<p>This exhibition requires a $7 special exhibition ticket.</p>",
+    "last_updated_source": "2019-08-21T16:49:48-05:00",
+    "last_updated": "2021-04-21T23:15:46-05:00",
+    "timestamp": "2021-04-22T22:13:46-05:00"
+}

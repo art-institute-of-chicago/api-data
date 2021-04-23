@@ -1,0 +1,150 @@
+{
+    "id": 11,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": null,
+    "main_reference_number": "1887.234",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1878,
+    "date_end": 1878,
+    "date_display": "1878",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Walter Shirlaw\nAmerican, 1838\u20131909",
+    "place_of_origin": "United States",
+    "dimensions": "70.2 \u00d7 53.7 cm (27 5/8 \u00d7 21 1/8 in.)",
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Signed l.r.: \"W. Shirlaw, 1878\"",
+    "credit_line": "Gift of Joseph M. Rogers",
+    "publication_history": null,
+    "exhibition_history": "Chicago, Illinois, South Park Commissioner Exhibition, Feb 1909.\n\nCincinnati Art Museum, Munich & American Realism in the 19th Century, Apr 20\u2013May 28, 1978; Milwaukee Art Center, Jul 13\u2013Aug 27, 1978; Sacramento, E.B. Crocker Art Gallery, Oct 28\u2013Dec 10, 1978.",
+    "provenance_text": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": null,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36656,
+    "artist_title": "Walter Shirlaw",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36656
+    ],
+    "artist_titles": [
+        "Walter Shirlaw"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "self-portraits",
+        "organic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": "TM-12240",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12240"
+    ],
+    "subject_titles": [
+        "self-portraits"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.234"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 1783286,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "last_updated_source": "2020-09-18T16:47:21-05:00",
+    "last_updated": "2021-02-02T00:39:03-06:00",
+    "timestamp": "2021-04-22T22:13:48-05:00"
+}

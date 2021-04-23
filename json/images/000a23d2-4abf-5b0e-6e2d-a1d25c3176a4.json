@@ -1,0 +1,44 @@
+{
+    "id": "000a23d2-4abf-5b0e-6e2d-a1d25c3176a4",
+    "lake_guid": "000a23d2-4abf-5b0e-6e2d-a1d25c3176a4",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000a23d2-4abf-5b0e-6e2d-a1d25c3176a4",
+    "title": "AS_03193",
+    "type": "image",
+    "description": null,
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "3a4e5c471e5f0c678a2aa9e9b604b0d0",
+    "content_modified_at": null,
+    "iiif_url": "https://www.artic.edu/iiif/2/000a23d2-4abf-5b0e-6e2d-a1d25c3176a4",
+    "width": 2592,
+    "height": 3738,
+    "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAGVtX0tcZkRfbFJeZFVobWJoYWd0bW98a3h0Ym57dGd0eH6DZpCDbnGMg3yNhAAAACH5BAAAAAAALAAAAAADAAUAAAQLEBUGgjrErOaSGBEAOw==",
+    "colorfulness": 31.3463,
+    "color": {
+        "h": 39,
+        "l": 63,
+        "s": 35,
+        "percentage": 0.012974495848161328,
+        "population": 133
+    },
+    "fingerprint": {
+        "ahash": "9f838181b1bfb980",
+        "dhash": "575f595d616d5141",
+        "phash": "ffb5e49560c184ca",
+        "whash": "9f83818191bffd81"
+    },
+    "artwork_ids": [
+        13164
+    ],
+    "artwork_titles": [
+        "Pine of Success and Oumayagashi, Asakusa River (Asakusagawa shubi no matsu Oumayagashi), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\""
+    ],
+    "last_updated_source": null,
+    "last_updated": "2021-02-08T21:48:21-06:00",
+    "timestamp": "2021-04-22T22:16:58-05:00"
+}

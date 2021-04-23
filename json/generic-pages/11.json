@@ -1,0 +1,22 @@
+{
+    "id": 11,
+    "api_model": "generic-pages",
+    "api_link": "https://api.artic.edu/api/v1/generic-pages/11",
+    "title": "Museum Floor Plan",
+    "type": null,
+    "web_url": "https://nocache.www.artic.edu/visit/explore-on-your-own/museum-floor-plan",
+    "slug": "museum-floor-plan",
+    "image_url": null,
+    "listing_description": "<p>The Art Institute offers almost a million square feet to explore. Use the museum floor plan to help navigate a course for your visit.</p>",
+    "short_description": "<p>The Art Institute offers almost a million square feet to explore. Use the museum floor plan to help navigate a course for your visit.</p>",
+    "copy": " Planning your visit? Download our floor plan . This information can also be found in the printed Visitor Guide at the museum. If you or someone in your group has sensory sensitivities, consider using our sensory map of the museum as a guide for finding spaces that will likely be quieter and less crowded, as well as spaces with tactile engagements and activities.   Lower Level   First Floor   Second Floor   Third Floor ",
+    "search_tags": [
+        "map",
+        "maps",
+        "guide",
+        "plan"
+    ],
+    "last_updated_source": "2021-03-25T16:16:48-05:00",
+    "last_updated": "2021-04-21T23:20:28-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

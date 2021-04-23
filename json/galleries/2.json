@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/2",
+    "title": "East Garden at Columbus Drive",
+    "type": "AIC Gallery",
+    "is_closed": false,
+    "number": null,
+    "floor": "1",
+    "latitude": 41.880643,
+    "longitude": -87.621179,
+    "latlon": "41.880643,-87.621179",
+    "last_updated_source": "1976-09-02T11:20:00-05:00",
+    "last_updated": "2019-05-14T14:25:59-05:00",
+    "timestamp": "2021-04-22T22:13:43-05:00"
+}

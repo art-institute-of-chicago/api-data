@@ -1,0 +1,17 @@
+{
+    "id": 7,
+    "api_model": "generic-pages",
+    "api_link": "https://api.artic.edu/api/v1/generic-pages/7",
+    "title": "FAQs",
+    "type": null,
+    "web_url": "https://nocache.www.artic.edu/visit/faqs",
+    "slug": "faqs",
+    "image_url": null,
+    "listing_description": null,
+    "short_description": "Frequently asked\u2014and answered\u2014questions.",
+    "copy": " If you can't find the answers to your questions here, read our FAQs for Members , Families , Teens , Educators , and the Library and Archives . ",
+    "search_tags": null,
+    "last_updated_source": "2021-02-17T10:53:09-06:00",
+    "last_updated": "2021-04-21T23:20:36-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

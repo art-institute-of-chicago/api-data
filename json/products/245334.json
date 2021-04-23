@@ -1,0 +1,21 @@
+{
+    "id": 245334,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245334",
+    "title": "Faber-Castell Oil Pastels 24 Piece Set",
+    "external_sku": 102023,
+    "image_url": "https://shop-images.imgix.net/102023_2.jpg",
+    "web_url": "https://shop.artic.edu/products/102023",
+    "description": "<p>Inspire them early. Spark young artist's creativity with the tools they'll need to create their own masterpieces. 24 oil pastels are nontoxic and acid-free.</p>\n<p>Recommended for ages 5 and up.</p>",
+    "price_display": "<p>$10.5</p>",
+    "min_compare_at_price": null,
+    "max_compare_at_price": null,
+    "min_current_price": 10.5,
+    "max_current_price": 10.5,
+    "artist_ids": [],
+    "artwork_ids": [],
+    "exhibition_ids": [],
+    "last_updated_source": "2021-04-20T00:00:00-05:00",
+    "last_updated": "2021-04-21T23:01:36-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

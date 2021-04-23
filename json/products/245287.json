@@ -1,0 +1,25 @@
+{
+    "id": 245287,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245287",
+    "title": "Georges Seurat A Sunday on La Grande Jatte Umbrella",
+    "external_sku": 101134,
+    "image_url": "https://shop-images.imgix.net/101134_2.jpg",
+    "web_url": "https://shop.artic.edu/products/101134",
+    "description": "<p>Taking Georges Seurat\u2019s (French, 1859\u20131891) masterpiece <em>A Sunday on La Grande</em> <em>Jatte \u20141884</em> as its inspiration, our folding umbrella is perfect for a rainy day.</p>\n<p>Constructed of polyester, the umbrella features an aluminum shaft. 10 1/2 in. ; opens to 37 in. diameter.</p>",
+    "price_display": "<p>$38</p>",
+    "min_compare_at_price": null,
+    "max_compare_at_price": null,
+    "min_current_price": 38,
+    "max_current_price": 38,
+    "artist_ids": [
+        40810
+    ],
+    "artwork_ids": [
+        27992
+    ],
+    "exhibition_ids": [],
+    "last_updated_source": "2021-04-20T00:00:00-05:00",
+    "last_updated": "2021-04-21T23:01:36-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}

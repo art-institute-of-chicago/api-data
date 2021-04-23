@@ -1,0 +1,16 @@
+{
+    "id": 346,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/346",
+    "title": "Stock Exchange Trading Room",
+    "type": "AIC Gallery",
+    "is_closed": false,
+    "number": null,
+    "floor": "1",
+    "latitude": 41.879566769738,
+    "longitude": -87.621309757233,
+    "latlon": "41.879566769738,-87.621309757233",
+    "last_updated_source": "2019-10-30T17:13:39-05:00",
+    "last_updated": "2019-10-30T17:15:36-05:00",
+    "timestamp": "2021-04-22T22:13:43-05:00"
+}

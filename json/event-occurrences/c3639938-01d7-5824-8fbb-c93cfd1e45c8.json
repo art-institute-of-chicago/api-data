@@ -1,0 +1,20 @@
+{
+    "id": "c3639938-01d7-5824-8fbb-c93cfd1e45c8",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/c3639938-01d7-5824-8fbb-c93cfd1e45c8",
+    "title": "Member Double Discount Day",
+    "event_id": 5092,
+    "short_description": "Members save 20% in the Museum Shops\u2014and online at shop.artic.edu.",
+    "description": "<p>Members save 20% in the Museum Shops\u2014and online at <a href=\"/exhibitions_events/events/4240/shop.artic.edu\">shop.artic.edu</a>\u2014all day long.</p>",
+    "image_url": "https://artic-web.imgix.net/null53120e35-b06f-40b5-9a31-e6dfa63fc1f3/Shop2020October_369-int3.jpg?rect=0%2C128%2C3000%2C1690&auto=compress&fm=jpg&q=80&fit=crop&crop=faces%2Cedges%2Centropy&w=1200&h=676",
+    "is_private": false,
+    "start_at": "2021-07-17T11:00:00-05:00",
+    "end_at": "2021-07-17T18:00:00-05:00",
+    "location": "Museum Shops",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": null,
+    "last_updated_source": "2021-03-23T12:09:38-05:00",
+    "last_updated": "2021-04-21T23:14:56-05:00",
+    "timestamp": "2021-04-22T22:13:47-05:00"
+}
