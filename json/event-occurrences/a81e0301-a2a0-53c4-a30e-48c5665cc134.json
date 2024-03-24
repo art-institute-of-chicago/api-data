@@ -1,0 +1,20 @@
+{
+    "id": "a81e0301-a2a0-53c4-a30e-48c5665cc134",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/a81e0301-a2a0-53c4-a30e-48c5665cc134",
+    "title": "Art Exchange (Mar 7\u2013Jun 3)",
+    "event_id": 5895,
+    "short_description": "Visitors of all ages are invited to stop by the Ryan Learning Center and explore a variety of activities.",
+    "description": "<p>Visitors of all ages are invited to stop by the museum\u2019s Ryan Learning Center and choose from a variety of activities: create an art project, explore conservation tools, make a custom museum tour with JourneyMaker, and more.&nbsp;</p><p>From March 7 to June 3, join us for the Artist\u2019s Studio: Make a Miniature, an art-making activity inspired by the <a href=\"/highlights/12/thorne-miniature-rooms\" rel=\"noopener noreferrer\">Thorne Miniature Rooms</a>. Mix and match textures, colors, and materials to craft an imaginary space of your own.</p>",
+    "image_url": "https://artic-web.imgix.net/e8efa58a-c0ce-4509-9179-85a316709bee/Copyof2024_RLC_013.JPG?rect=0%2C196%2C5760%2C3242&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2024-04-15T11:00:00-05:00",
+    "end_at": "2024-04-15T15:00:00-05:00",
+    "location": "Ryan Learning Center",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>Free; no registration required</p>",
+    "source_updated_at": "2024-03-04T09:05:41-06:00",
+    "updated_at": "2024-03-23T23:27:33-05:00",
+    "timestamp": "2024-03-24T01:56:48-05:00"
+}

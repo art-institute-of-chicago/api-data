@@ -1,0 +1,20 @@
+{
+    "id": "0a972248-d0ee-52fa-86cf-0a336dbff962",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/0a972248-d0ee-52fa-86cf-0a336dbff962",
+    "title": "Gallery Conversation: What Makes a Hero?",
+    "event_id": 5887,
+    "short_description": "What makes a hero, and who gets to be one? Join museum educators Katie Barko and Gaby Lavalle in this gallery conversation where art becomes a window into the diverse dimensions of heroism.",
+    "description": "<p>What makes a hero, and who gets to be one? Join museum educators Katie Barko and Gaby Lavalle in this gallery conversation where art becomes a window into the diverse dimensions of heroism. Together we will discuss the ambiguity, construction, and narratives of heroes and challenge our perceptions.&nbsp;<br class=\"softbreak\"></p><p>This gallery conversation is given entirely in English.&nbsp;</p><p><strong>Esta conversaci\u00f3n en galer\u00edas ser\u00e1 en ingl\u00e9s. </strong>Acomp\u00e1\u00f1anos el 5 de abril a las 2:00 para <a href=\"/events/5886/conversacion-en-las-galerias-que-hace-a-un-heroe\" rel=\"noopener noreferrer\" target=\"_blank\">el mismo programa en espa\u00f1ol</a>.<br class=\"softbreak\"></p>",
+    "image_url": "https://artic-web.imgix.net/a9d0ba36-2e16-412e-8052-32986b0ce4f3/HeroConstruction.jpg?rect=0%2C35%2C843%2C474&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2024-04-19T14:00:00-05:00",
+    "end_at": "2024-04-19T15:30:00-05:00",
+    "location": "Meet in Gallery 100",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>Free with museum admission<br class=\"softbreak\"></p>",
+    "source_updated_at": "2024-01-31T14:12:40-06:00",
+    "updated_at": "2024-03-23T23:27:41-05:00",
+    "timestamp": "2024-03-24T01:56:48-05:00"
+}
