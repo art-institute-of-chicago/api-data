@@ -1,0 +1,12 @@
+{
+    "id": "PC-101",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/PC-101",
+    "title": "Modern Painting and Sculpture",
+    "subtype": "department",
+    "parent_id": null,
+    "aat_id": null,
+    "source_updated_at": "2019-05-08T18:03:12-05:00",
+    "updated_at": "2019-05-09T17:01:10-05:00",
+    "timestamp": "2024-06-30T01:47:17-05:00"
+}
