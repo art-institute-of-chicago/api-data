@@ -1,0 +1,20 @@
+{
+    "id": "0bc33343-0c1c-5bda-a91b-5857636117f0",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/0bc33343-0c1c-5bda-a91b-5857636117f0",
+    "title": "Teen Open Studio",
+    "event_id": 5966,
+    "short_description": "Just for teens, this open studio offers drop-in art making inspired by a different exhibition each week, all summer long.",
+    "description": "<p>Just for teens, this open studio takes place on selected Fridays and Saturdays this summer and offers art-making activities inspired by a different exhibition each week. Join us to express yourself through a variety of media and techniques. All materials will be provided, and no experience is necessary.</p><p>Drop in anytime between 11:00 and 3:00 on the following Fridays and Saturdays:</p><p><strong>June 28 and 29</strong><br class=\"softbreak\">Found-Object Photograms<br class=\"softbreak\">Inspired by <em>J\u00e1nos Megyik Photograms</em><br class=\"softbreak\"><br class=\"softbreak\"><strong>July 12 and 13</strong><br class=\"softbreak\">Expressive Printmaking<br class=\"softbreak\">Inspired by<em> A Sign of Things to Come: Prints by Japanese Women Artists after 1950</em><br class=\"softbreak\"><br class=\"softbreak\"><strong>July 19 and 20</strong><br class=\"softbreak\">Stitching Identity<br class=\"softbreak\">Inspired by<em> Threaded Visions: Contemporary Weaving from the Collection</em><br class=\"softbreak\"><br class=\"softbreak\"><strong>July 26 and 27<br class=\"softbreak\"></strong>Painting Personal Landscapes<br class=\"softbreak\">Inspired by <em>Georgia O\u2019Keeffe: \u201cMy New Yorks\u201d</em><br class=\"softbreak\"><br class=\"softbreak\"><strong>August 9 and 10</strong><br class=\"softbreak\">Chance Collage<br class=\"softbreak\">Inspired by <em>Ellsworth Kelly: Spectrum Colors Arranged by Chance</em></p><p>Looking for a deeper dive? Join us for Teen Studio Workshops, offered 1:00 to 4:00 on selected Thursdays. These guided art-making sessions feature a visit to the galleries to explore the related exhibition. Registration for the first Thursday session, <a href=\"/events/5960/teen-studio-workshop-found-object-photograms\" rel=\"noopener noreferrer\">Found-Object Photograms</a>, is currently open now. Check back soon to register for additional events in this series. <br class=\"softbreak\"></p>",
+    "image_url": "https://artic-web.imgix.net/7d43262b-418a-43c2-be2e-27e8ecf1b992/CopyofCopyof20230114-AIC-TeenCouncil-48.jpg?rect=0%2C360%2C5760%2C3240&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2024-08-09T11:00:00-05:00",
+    "end_at": "2024-08-09T15:00:00-05:00",
+    "location": "Ryan Learning Center, Studio C",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>Free, no registration required<br class=\"softbreak\"></p>",
+    "source_updated_at": "2024-07-01T15:41:55-05:00",
+    "updated_at": "2024-08-03T23:27:22-05:00",
+    "timestamp": "2024-08-04T01:56:06-05:00"
+}

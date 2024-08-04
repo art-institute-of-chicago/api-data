@@ -1,0 +1,17 @@
+{
+    "id": 11,
+    "api_model": "generic-pages",
+    "api_link": "https://api.artic.edu/api/v1/generic-pages/11",
+    "title": "Museum Floor Plan",
+    "web_url": "https://www.artic.edu/visit/explore-on-your-own/museum-floor-plan",
+    "copy": " Planning your visit? Download our Visitor Guide . Printed Visitor Guides are also available at the museum. If you or someone in your group has sensory sensitivities, consider using our sensory map of the museum as a guide for finding spaces that will likely be quieter and less crowded, as well as spaces with tactile engagements and activities.   Lower Level   First Level   Second Level   Third Level   All Levels ",
+    "search_tags": [
+        "map",
+        "maps",
+        "guide",
+        "plan"
+    ],
+    "source_updated_at": "2024-06-06T16:26:16-05:00",
+    "updated_at": "2024-08-03T23:39:15-05:00",
+    "timestamp": "2024-08-04T01:56:06-05:00"
+}
