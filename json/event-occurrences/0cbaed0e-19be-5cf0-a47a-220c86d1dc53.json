@@ -1,0 +1,20 @@
+{
+    "id": "0cbaed0e-19be-5cf0-a47a-220c86d1dc53",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/0cbaed0e-19be-5cf0-a47a-220c86d1dc53",
+    "title": "Art Exchange (Sept 5\u2013Dec 9)",
+    "event_id": 6011,
+    "short_description": "Visitors of all ages are invited to stop by the museum\u2019s Ryan Learning Center and choose from a variety of activities: create an art project, explore the Multisensory Gallery, make a custom museum tour with JourneyMaker, and more.",
+    "description": "<p>Visitors of all ages are invited to stop by the museum\u2019s Ryan Learning Center and choose from a variety of activities: create an art project, explore the Multisensory Gallery, make a custom museum tour with JourneyMaker, and more.&nbsp;<span id=\"docs-internal-guid-5ba491af-7fff-2096-11a1-2c8ba5c9bb0e\" class=\"ql-anchor\"><br class=\"softbreak\"><br class=\"softbreak\"></span>Join us this fall for the Artist\u2019s Studio: Story Columns, an architectural drawing activity inspired by <a href=\"/exhibitions/10310/germane-barnes-columnar-disorder\" rel=\"noopener noreferrer\"><em>Germane Barnes: Columnar Disorder</em></a><em>.&nbsp;</em>This engagement is offered daily in the Art Exchange through December 9, 2024.<br class=\"softbreak\"></p>",
+    "image_url": "https://artic-web.imgix.net/049de5f2-5055-4ec0-9505-9e3d059291d1/AICRLC_SUMMER_2024_0073.jpg?rect=0%2C512%2C8192%2C4610&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2024-11-04T11:00:00-06:00",
+    "end_at": "2024-11-04T15:00:00-06:00",
+    "location": "Ryan Learning Center",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>Free; no registration required<br class=\"softbreak\"></p>",
+    "source_updated_at": "2024-09-11T10:52:47-05:00",
+    "updated_at": "2024-11-02T23:27:12-05:00",
+    "timestamp": "2024-11-03T01:24:57-06:00"
+}
