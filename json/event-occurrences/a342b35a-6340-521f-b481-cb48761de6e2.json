@@ -1,0 +1,20 @@
+{
+    "id": "a342b35a-6340-521f-b481-cb48761de6e2",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/a342b35a-6340-521f-b481-cb48761de6e2",
+    "title": "Holiday Art Making: Cocoa and Crafts",
+    "event_id": 6050,
+    "short_description": "Sip hot chocolate and celebrate the season with a surprise craft activity designed and led by our Art Institute of Chicago Teen Council. Families and visitors of all ages are welcome.",
+    "description": "<p>Sip hot chocolate and celebrate the season with a surprise craft activity designed and led by our Art Institute of Chicago Teen Council. Families and visitors of all ages are welcome.<br class=\"softbreak\"></p><h2>about teen council</h2><p>The Art Institute of Chicago Teen Council is a group of 15 creative and passionate youth artists, leaders, and organizers who collaborate with museum staff to design programs and resources that reimagine the future of cultural institutions and make the museum a more welcoming, accessible, and relevant space for Chicagoland youth.&nbsp;<br class=\"softbreak\"></p>",
+    "image_url": "https://artic-web.imgix.net/e426f640-18ca-47bc-9cc9-f714b1976bb9/AIC_Exuberus_2024_00611.jpg?rect=0%2C637%2C7643%2C4301&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2024-12-30T11:00:00-06:00",
+    "end_at": "2024-12-30T15:00:00-06:00",
+    "location": "Ryan Learning Center, Studio A",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>Free; no registration required<br class=\"softbreak\"></p>",
+    "source_updated_at": "2024-10-30T16:35:36-05:00",
+    "updated_at": "2024-11-16T23:27:09-06:00",
+    "timestamp": "2024-11-17T02:14:38-06:00"
+}
