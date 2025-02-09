@@ -1,0 +1,20 @@
+{
+    "id": "a90e3384-2346-505f-895c-f971f3a391d8",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/a90e3384-2346-505f-895c-f971f3a391d8",
+    "title": "Art Exchange (Dec 12\u2013Mar 24)",
+    "event_id": 6055,
+    "short_description": "Visitors of all ages are invited to stop by the museum\u2019s Ryan Learning Center and choose from a variety of activities: create an art project, explore the Multisensory Gallery, make a custom museum tour with JourneyMaker, and more.",
+    "description": "<p>Visitors of all ages are invited to stop by the museum\u2019s Ryan Learning Center and choose from a variety of activities: create an art project, explore the Multisensory Gallery, make a custom museum tour with JourneyMaker, and more.&nbsp;<span id=\"docs-internal-guid-5ba491af-7fff-2096-11a1-2c8ba5c9bb0e\" class=\"ql-anchor\"><br class=\"softbreak\"></span></p><p>This winter, let\u2019s celebrate a Black Planet! Write and illustrate a family proclamation inspired by <a href=\"/exhibitions/10157/project-a-black-planet-the-art-and-culture-of-panafrica\" rel=\"noopener noreferrer\" target=\"_blank\"><em>Project a Black Planet: The Art and Culture of Panafrica</em></a> and the African Children's Charter. In this multimedia art-making activity, we\u2019ll create medallion collages using gems, images, fabric, and more. Your medallion can be worn, traded, or displayed in our collective gallery. This activity was designed by hybrid poet and disability justice advocate Saleem Hue Penny.<br class=\"softbreak\"></p>",
+    "image_url": "https://artic-web.imgix.net/f03deb3f-4fe4-4b73-9c0e-b1e3e17f887d/Image4_ArtistsStudio_Copyof2023_RLC_078.JPG?rect=0%2C590%2C5664%2C3186&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=1200&h=675",
+    "is_private": false,
+    "start_at": "2025-02-23T11:00:00-06:00",
+    "end_at": "2025-02-23T15:00:00-06:00",
+    "location": "Ryan Learning Center",
+    "button_url": null,
+    "button_text": "Buy Tickets",
+    "button_caption": "<p>Free; no registration required<br class=\"softbreak\"></p>",
+    "source_updated_at": "2025-02-06T10:05:51-06:00",
+    "updated_at": "2025-02-08T23:27:09-06:00",
+    "timestamp": "2025-02-09T02:20:27-06:00"
+}
