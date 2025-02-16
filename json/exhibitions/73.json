@@ -1,0 +1,39 @@
+{
+    "id": 73,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/73",
+    "title": "Focus: Michael Asher",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "2005-09-29T00:00:00-05:00",
+    "aic_end_at": "2006-01-01T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "c6f4bd36-b93c-6a34-2b7d-86d307c6cfe2",
+    "alt_image_ids": [
+        "71b90819-7921-625b-1827-3c9d7fc72b6f",
+        "84f25a94-3391-6fa4-9ec2-0bfbc255d69e"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Focus: Michael Asher"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2025-01-14T09:38:36-06:00",
+    "updated_at": "2025-01-14T09:41:23-06:00",
+    "timestamp": "2025-02-16T02:08:51-06:00"
+}

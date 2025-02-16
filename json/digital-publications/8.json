@@ -1,0 +1,11 @@
+{
+    "id": 8,
+    "api_model": "digital-publications",
+    "api_link": "https://api.artic.edu/api/v1/digital-publications/8",
+    "title": "Caillebotte Paintings and Drawings at the Art Institute of Chicago",
+    "web_url": "https://www.artic.edu/digital-publications/8/caillebotte-paintings-and-drawings-at-the-art-institute-of-chicago",
+    "copy": " Groundbreaking conservation and research discoveries about Caillebotte\u2019s remarkable and beloved painting Paris Street: Rainy Day are revealed in Caillebotte Paintings and Drawings at the Art Institute of Chicago . One of the many digital assets included in the catalogue is a video shot on the street in Paris that helps to explain the artist\u2019s use of a camera lucida to create the preparatory sketch and painting. Interactive and layered high-resolution imaging, videos, and previously unpublished technical photography unveil extensive new research on the works. Other features include a glossary, scanned archival materials, and biographical information about significant historical collectors for the museum.   Edited by Gloria Groom and Genevieve Westerby; essays by Gloria Groom, Kelly Keegan, Nancy Ireson, Antoinette Owen, and Kirk Vuillemot   This free catalogue was supported by the Art Institute\u2019s David and Mary Winton Green Nineteenth-Century Research Fund. The catalogues were built using the OSCI Toolkit , an open-source, digital publishing platform. Find the code for the Art Institute OSCI Toolkit here under the OSCI-Toolkit, OSCI-Toolkit-Frontend, and ChicagoCodeX repositories. ",
+    "source_updated_at": "2025-01-15T11:19:31-06:00",
+    "updated_at": "2025-02-15T23:48:06-06:00",
+    "timestamp": "2025-02-16T02:22:17-06:00"
+}

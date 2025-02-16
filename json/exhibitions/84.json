@@ -1,0 +1,36 @@
+{
+    "id": 84,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/84",
+    "title": "On the Scene: Jessica Rowe, Jason Salavon, Brian Ulrich",
+    "is_featured": false,
+    "position": -1,
+    "short_description": "Drawing on the dynamic photography scene in Chicago, this exhibition focuses on work by three younger talents: Jessica Rowe, Jason Salavon, and Brian Ulrich. Jessica Rowe photographs spaces in our homes where we display the objects, photos, and memorabilia that we want others to see: old portraits atop a dresser, statues on a mantel, or cherished book collections. Over the past year, in a series called Remnant, she has turned this attention to even more intimate objects\u2014clothing.",
+    "web_url": "https://www.artic.edu/exhibitions/84/on-the-scene-jessica-rowe-jason-salavon-brian-ulrich",
+    "image_url": "https://artic-web.imgix.net/045d1354-0fd4-4b71-8e6e-eaca72321efc/onthescene.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C295%2C2999%2C1687",
+    "status": "Closed",
+    "aic_start_at": "2005-11-12T00:00:00-06:00",
+    "aic_end_at": "2006-01-28T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "On the Scene: Jessica Rowe, Jason Salavon, Brian Ulrich"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2025-02-15T23:37:23-06:00",
+    "timestamp": "2025-02-16T02:08:51-06:00"
+}

@@ -1,0 +1,12 @@
+{
+    "id": 15,
+    "api_model": "generic-pages",
+    "api_link": "https://api.artic.edu/api/v1/generic-pages/15",
+    "title": "Research Guides",
+    "web_url": "https://www.artic.edu/library/discover-our-collections/research-guides",
+    "copy": " Learn how to research a work of art, uncover the history of a Chicago building, locate art market prices or a professional appraiser, or find information on works exhibited at the Paris salons, among other topics.   An overview of the library collections is available here , and information on visiting the Reading Room can be found here . ",
+    "search_tags": null,
+    "source_updated_at": "2020-03-19T15:06:06-05:00",
+    "updated_at": "2025-02-15T23:39:38-06:00",
+    "timestamp": "2025-02-16T02:22:17-06:00"
+}

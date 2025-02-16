@@ -1,0 +1,59 @@
+{
+    "id": 5,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5",
+    "title": "Manet and the Sea",
+    "is_featured": false,
+    "position": -1,
+    "short_description": "This landmark exhibition is devoted to the marine paintings of Edouard Manet (1832\u20131883), a little-studied but highly significant aspect of the career of the artist who is sometimes referred to as the father of Impressionism.",
+    "web_url": "https://www.artic.edu/exhibitions/5/manet-and-the-sea",
+    "image_url": "https://artic-web.imgix.net/c1005a4f-71b3-4dab-9b88-43d4bf3dd07c/14598.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C87%2C1024%2C576",
+    "status": "Closed",
+    "aic_start_at": "2003-10-20T00:00:00-05:00",
+    "aic_end_at": "2004-01-04T00:00:00-06:00",
+    "gallery_id": 2147475902,
+    "gallery_title": "Regenstein Hall",
+    "artwork_ids": [
+        81557,
+        103101,
+        81572,
+        14598,
+        14620,
+        44892,
+        81533
+    ],
+    "artwork_titles": [
+        "Seascape",
+        "Marine",
+        "Trouville (Grey and Green, the Silver Sea)",
+        "The Beach at Sainte-Adresse",
+        "Cliff Walk at Pourville",
+        "Fish (Still Life)",
+        "The Races at Longchamp"
+    ],
+    "artist_ids": [
+        36351,
+        35577,
+        37279,
+        35809
+    ],
+    "site_ids": [
+        12
+    ],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Manet and the Sea"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2025-02-15T23:37:27-06:00",
+    "timestamp": "2025-02-16T02:08:51-06:00"
+}

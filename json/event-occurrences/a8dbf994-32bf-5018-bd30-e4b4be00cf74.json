@@ -1,0 +1,20 @@
+{
+    "id": "a8dbf994-32bf-5018-bd30-e4b4be00cf74",
+    "api_model": "event-occurrences",
+    "api_link": "https://api.artic.edu/api/v1/event-occurrences/a8dbf994-32bf-5018-bd30-e4b4be00cf74",
+    "title": "Exuberus Teen Night 2025",
+    "event_id": 6107,
+    "short_description": "Teens are invited to jump-start the summer with Exuberus, the museum\u2019s free annual teen night!",
+    "description": "<p>Jump-start your summer with Exuberus, the museum\u2019s free annual teen night! Open to and hosted by Chicago high school teens, this celebration features food, teen musical performances, dancing, an open mic to show off your talents, teen-led gallery tours, art making, and more.&nbsp;<span id=\"docs-internal-guid-e61eda72-7fff-b397-a068-f533a1887c02\" class=\"ql-anchor\"><br class=\"softbreak\"><br class=\"softbreak\"></span>Exuberus is conceived of and organized by the Art Institute\u2019s <a href=\"/visit/whos-visiting/teens-2/opportunities-for-teens#teen-council\" rel=\"noopener noreferrer\" target=\"_blank\">Teen Council</a> to highlight teen creativity and community in Chicago.</p><p>For questions related to accessibility accommodations, please email <a href=\"mailto:access@artic.edu\" rel=\"noopener noreferrer\">access@artic.edu</a>.<br class=\"softbreak\"></p><h2>sponsors</h2><p>The Art Institute of Chicago is grateful to Glenn and Claire Swogger and the Redbud Foundation for their extraordinary sponsorship expanding the museum\u2019s free admission program to Chicago teens under the age of 18.<span id=\"docs-internal-guid-8ea1040b-7fff-1129-af62-2a58c870f0fa\" class=\"ql-anchor\"><br class=\"softbreak\"><br class=\"softbreak\"></span>Support for Summer Learning at the Art Institute of Chicago is generously provided by The Jane Wilson and David Mayhew Stone Charitable Trust.<span id=\"docs-internal-guid-8ea1040b-7fff-1129-af62-2a58c870f0fa\" class=\"ql-anchor\"><br class=\"softbreak\"><br class=\"softbreak\"></span>Internships at the museum are supported through the McMullan Art Leadership Initiative.<br class=\"softbreak\"></p>",
+    "image_url": "https://artic-web.imgix.net/1314ca48-2381-4843-a2ea-c313a8c2f24f/AIC_Exuberus_2024_0143.jpg?rect=0%2C851%2C8192%2C4613&auto=format%2Ccompress&q=80&fit=crop&crop=faces%2Ccenter&w=1200&h=676",
+    "is_private": false,
+    "start_at": "2025-06-12T17:00:00-05:00",
+    "end_at": "2025-06-12T22:00:00-05:00",
+    "location": "Please use the Modern Wing entrance at 159 E Monroe.",
+    "button_url": "https://sales.artic.edu/Events/Event/29678?date=6/12/2025",
+    "button_text": "Register",
+    "button_caption": "<p>Registration is required. <br class=\"softbreak\"></p>",
+    "source_updated_at": "2025-02-11T14:40:49-06:00",
+    "updated_at": "2025-02-15T23:27:07-06:00",
+    "timestamp": "2025-02-16T02:22:16-06:00"
+}

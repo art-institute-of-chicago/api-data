@@ -1,0 +1,16 @@
+{
+    "id": 21434,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/21434",
+    "title": "Gallery 273",
+    "latitude": 41.879303853444,
+    "longitude": -87.62198193104,
+    "tgn_id": null,
+    "is_closed": false,
+    "number": "273",
+    "floor": "2",
+    "latlon": "41.879303853444,-87.62198193104",
+    "source_updated_at": "2025-01-23T00:15:00-06:00",
+    "updated_at": "2025-01-23T00:17:31-06:00",
+    "timestamp": "2025-02-16T02:08:50-06:00"
+}

@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "api_model": "event-programs",
+    "api_link": "https://api.artic.edu/api/v1/event-programs/3",
+    "title": "Picture This",
+    "is_affiliate_group": false,
+    "is_event_host": false,
+    "source_updated_at": "2018-08-10T10:48:54-05:00",
+    "updated_at": "2025-02-15T23:30:10-06:00",
+    "timestamp": "2025-02-16T02:22:16-06:00"
+}
