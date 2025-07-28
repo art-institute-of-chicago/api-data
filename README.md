@@ -15,7 +15,7 @@ The full dataset is too large to host on GitHub. This repository serves as a pre
 
 https://artic-api-data.s3.amazonaws.com/artic-api-data.tar.bz2
 
-The contents of that link are updated on the same schedule as this GitHub repository. At the time of writing, this dataset is about 75 MB compressed but takes up about 1.75 GB on disk after being extracted.
+The contents of that link are updated on the same schedule as this GitHub repository. At the time of writing, this dataset is about 115 MB compressed but takes up about 2.5 GB on disk after being extracted.
 
 
 ## What's in the dataset?
