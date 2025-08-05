@@ -1,0 +1,62 @@
+{
+    "id": 2193,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/2193",
+    "title": "The Essentials Tour",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/1926.224%20-%20A%20Sunday%20on%20La%20Grande%20Jatte%20%E2%80%94%201884_0.jpg",
+    "description": "<p>Discover the stories behind some of the museum\u2019s most iconic artworks.</p>\n",
+    "intro": "<p>Indulge in the sunlit bank of the River Seine in Georges Seurat\u2019s &quot;A Sunday on La Grande Jatte&quot; or make a late-night stop at a New York City diner in Edward Hopper\u2019s &quot;Nighthawks&quot; in this tour of the museum\u2019s iconic collection. Founded in 1879, the Art Institute of Chicago is home to a massive collection spanning nearly all of human history. As you explore centuries of art, this tour highlights some essential landmarks\u2014with lesser known, but equally engaging artworks\u2014along the way. The soundtrack features the music of Andrew Bird, another Chicago essential.</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Hello and Welcome to the Art Institute of Chicago. I\u2019m Nenette Luarca- Shouaf, Associate Curator of Education, Learning, and Interpretation. On this tour, you\u2019ll learn about some of the museum\u2019s most iconic paintings and sculptures. You\u2019ll also be introduced to some treasures that aren\u2019t so well-known. You\u2019ll see artworks from 19th century France, the Aztec empire, a royal palace in Nigeria, and the United States just before World War II, among others. These artworks represent the breadth and depth of the Art Institute\u2019s collection, which celebrates the rich cultural heritage and artist achievements of peoples all over the world. Our curators and researchers will be your guides and help to explain what you\u2019re seeing. In some cases, the artists themselves offer insights on how they reproached making the works. There\u2019s no right way to take this tour. You can follow the itinerary that we have provided or explore at your own pace in any order. The tour takes you upstairs and downstairs, from our historic Michigan Avenue building into the Modern Wing, and everywhere in between. Since the Art Institute was founded in 1879, the museum has been a source of pride for Chicago. We\u2019re glad that you\u2019ve decided to visit and we hope that it\u2019s just one of many that you make in the future.</p>\n",
+    "artwork_titles": [
+        "Nightlife",
+        "American Gothic",
+        "Veranda Post (\u00d2p\u00f3 \u00d2g\u00f2g\u00e1)",
+        "Coronation Stone of Moctezuma Xocoyotzin",
+        "The Assumption of the Virgin",
+        "The Old Guitarist",
+        "Buddha Shakyamuni Seated in Meditation (Dhyanamudra)",
+        "City Landscape",
+        "A Sunday on La Grande Jatte \u2014 1884",
+        "The Bedroom",
+        "Paris Street; Rainy Day",
+        "Stacks of Wheat (End of Day, Autumn)",
+        "Bathers by a River",
+        "Nighthawks",
+        "America Windows",
+        "Improvisation No. 30 (Cannons)"
+    ],
+    "artist_titles": [
+        "Archibald John Motley Jr.",
+        "Grant Wood",
+        "Olowe of Ise",
+        "Yoruba",
+        "Aztec (Mexica)",
+        "Domenico Theotok\u00f3poulos, called El Greco",
+        "Pablo Picasso",
+        "Joan Mitchell",
+        "Georges Seurat",
+        "Vincent van Gogh",
+        "Gustave Caillebotte",
+        "Claude Monet",
+        "Henri Matisse",
+        "Edward Hopper",
+        "Marc Chagall",
+        "Vasily Kandinsky"
+    ],
+    "suggest_autocomplete_boosted": "The Essentials Tour",
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Essentials Tour"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:31-05:00",
+    "timestamp": "2025-08-05T15:52:58-05:00"
+}

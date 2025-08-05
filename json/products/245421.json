@@ -1,0 +1,25 @@
+{
+    "id": 245421,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245421",
+    "title": "Edward Hopper Nighthawks Umbrella",
+    "external_sku": 102863,
+    "image_url": "https://shop-images.imgix.net/102863_2.jpg",
+    "web_url": "https://shop.artic.edu/products/102863",
+    "description": "<p data-mce-fragment=\"1\">Umbrella developed from Edward Hopper\u2019s&nbsp;<em data-mce-fragment=\"1\">Nighthawks,</em>&nbsp;1942, from the Art Institute of Chicago\u2019s collection.</p><p data-mce-fragment=\"1\">Open up one of the best-known images of twentieth-century art, and take a walk in the rain.</p><ul><li><strong>Dimensions:</strong> Closed- 10.5 x 2 in.&nbsp; Open \u2013 37 in.</li><li><strong>Materials:</strong> Polyester, Aluminum, Rubber.</li><li><strong>Auto open, manual close.</strong></li><li><strong>Storage sleeve for umbrella included.</strong></li></ul>",
+    "price_display": "<p>$40 <s>$0</s></p>",
+    "min_compare_at_price": 0,
+    "max_compare_at_price": 0,
+    "min_current_price": 40,
+    "max_current_price": 40,
+    "artist_ids": [
+        34996
+    ],
+    "artwork_ids": [
+        111628
+    ],
+    "exhibition_ids": [],
+    "source_updated_at": "2025-08-04T08:30:31-05:00",
+    "updated_at": "2025-08-04T23:10:05-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

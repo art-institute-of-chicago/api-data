@@ -1,0 +1,177 @@
+{
+    "id": 22,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/22",
+    "is_boosted": false,
+    "title": "Villa Pamphili outside Porta S. Pancrazio, from Views of Rome",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAFZQSWFaU2JcVG1lXG5nXnBoX3BpYHFpYHFqYHVtY3RtZHdwZnhxZnhxZ3lxZ4J6cIN7cIN7cYV9coZ+c4d/dId/dYmAdqCYi6GZi6SbjrKombasnresnretnreuoMa8rc7Ds9/UwgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQA2nA9p8QpYHJDNxXCqKwSFR8EQCAARBQJEYFpiGgBEEADs=",
+        "width": 4373,
+        "height": 3164,
+        "alt_text": "A work made of etching on heavy ivory laid paper."
+    },
+    "main_reference_number": "1887.255",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1776,
+    "date_end": 1776,
+    "date_display": "1776, published 1800\u201307",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Giovanni Battista Piranesi (Italian, 1720-1778)\npublished by Francesco (Italian, 1758-1810) and Pietro Piranesi (Italian, born 1758/9)",
+    "place_of_origin": "Italy",
+    "description": null,
+    "short_description": null,
+    "dimensions": "Image: 49 \u00d7 70.3 cm (19 5/16 \u00d7 27 11/16 in.); Plate: 49.5 \u00d7 71 cm (19 1/2 \u00d7 28 in.); Sheet: 51.6 \u00d7 71.8 cm (20 3/8 \u00d7 28 5/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth": null,
+            "width": 70,
+            "height": 49,
+            "diameter": null,
+            "clarification": "Image"
+        },
+        {
+            "depth": null,
+            "width": 71,
+            "height": 49,
+            "diameter": null,
+            "clarification": "Plate"
+        },
+        {
+            "depth": null,
+            "width": 71,
+            "height": 51,
+            "diameter": null,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Etching on heavy ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Elizabeth Hammond Stickney Collection",
+    "catalogue_display": "<p>Hind 124 I/III</p><p>Focillon 840</p><p>Marini 124</p><p>Ficacci 995</p><p>Wilton-Ely 257</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.4697,
+    "color": null,
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to Suzhou Museum in Suzhou for <i>Rejoicing in Woods and Springs: A Journey through Garden Cultures in China and the Wider World</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 36210,
+    "artist_title": "Giovanni Battista Piranesi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36210
+    ],
+    "artist_titles": [
+        "Giovanni Battista Piranesi"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a76844cc-cec8-6026-5609-50d3961aed4c",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.255"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Villa Pamphili outside Porta S. Pancrazio, from Views of Rome"
+            ],
+            "weight": 204687,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2025-08-05T00:30:18-05:00",
+    "updated_at": "2025-08-05T00:37:29-05:00",
+    "timestamp": "2025-08-05T14:10:36-05:00"
+}

@@ -1,0 +1,25 @@
+{
+    "id": 245285,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245285",
+    "title": "Georges Seurat A Sunday on La Grande Jatte\u20141884 Tote",
+    "external_sku": 101127,
+    "image_url": "https://shop-images.imgix.net/101127_2.jpg",
+    "web_url": "https://shop.artic.edu/products/101127",
+    "description": "<p data-mce-fragment=\"1\">Tote developed from Georges Seurat\u2019s&nbsp;<em data-mce-fragment=\"1\">A Sunday on La Grande Jatte\u20141884,</em>&nbsp;1884-86, from the Art Institute of Chicago\u2019s collection</p><p data-mce-fragment=\"1\">This tote is perfect for a any occasion, and provides the opportunity to look at the details of this wonderful painting as you carry it with you.</p><ul><li><strong>Dimensions:</strong> 16.5 x 12 in.</li><li><strong>Material:</strong> Polyester.</li><li><strong>Zipper closure.</strong></li></ul>",
+    "price_display": "<p>$45 <s>$0</s></p>",
+    "min_compare_at_price": 0,
+    "max_compare_at_price": 0,
+    "min_current_price": 45,
+    "max_current_price": 45,
+    "artist_ids": [
+        40810
+    ],
+    "artwork_ids": [
+        27992
+    ],
+    "exhibition_ids": [],
+    "source_updated_at": "2025-08-04T08:30:31-05:00",
+    "updated_at": "2025-08-04T23:10:04-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

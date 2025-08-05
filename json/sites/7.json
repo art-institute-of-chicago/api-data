@@ -1,0 +1,23 @@
+{
+    "id": 7,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/7",
+    "title": "Girodet: Romantic Rebel",
+    "description": "Girodet: Romantic Rebel is the first retrospective in the United States devoted to the works of gifted French painter Anne-Louis Girodet de Roussy-Trioson (1767\u20131824). The exhibition assembles more than 100 seminal works (about 60 paintings and 40 drawings) that demonstrate the artist\u2019s impressive range as a painter as well as a draftsman.",
+    "web_url": "http://archive.artic.edu/girodet/",
+    "exhibition_ids": [
+        110
+    ],
+    "exhibition_titles": [
+        "Girodet: Romantic Rebel"
+    ],
+    "artwork_ids": [
+        147061
+    ],
+    "artwork_titles": [
+        "Phaedre, Having Declared Her Passion, Attempts to Kill Herself with the Sword of Hippolytus"
+    ],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:20-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

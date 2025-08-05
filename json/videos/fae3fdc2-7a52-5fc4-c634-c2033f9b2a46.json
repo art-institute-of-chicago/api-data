@@ -1,0 +1,24 @@
+{
+    "id": "fae3fdc2-7a52-5fc4-c634-c2033f9b2a46",
+    "lake_guid": "fae3fdc2-7a52-5fc4-c634-c2033f9b2a46",
+    "api_model": "videos",
+    "api_link": "https://api.artic.edu/api/v1/videos/fae3fdc2-7a52-5fc4-c634-c2033f9b2a46",
+    "title": "Skeele_FruitPiece_Essentials_Main",
+    "type": "video",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/fae3fdc2-7a52-5fc4-c634-c2033f9b2a46",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": "no specialty rights",
+    "content_e_tag": "641595904963c92b14164c21b6d9a9fa",
+    "artwork_ids": [
+        156596
+    ],
+    "artwork_titles": [
+        "Fruit Piece"
+    ],
+    "source_updated_at": "2024-04-11T09:25:06-05:00",
+    "updated_at": "2025-03-19T12:40:41-05:00",
+    "timestamp": "2025-08-05T15:52:30-05:00"
+}

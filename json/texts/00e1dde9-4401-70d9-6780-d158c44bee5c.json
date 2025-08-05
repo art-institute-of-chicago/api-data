@@ -1,0 +1,20 @@
+{
+    "id": "00e1dde9-4401-70d9-6780-d158c44bee5c",
+    "lake_guid": "00e1dde9-4401-70d9-6780-d158c44bee5c",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/00e1dde9-4401-70d9-6780-d158c44bee5c",
+    "title": "1968_Photographs_by_Duane_Michals_Installation_Photos_6.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00e1dde9-4401-70d9-6780-d158c44bee5c",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "97d44d9475cd257d1425760e20f65eb1",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2025-02-26T19:30:37-06:00",
+    "updated_at": "2025-03-19T15:55:25-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

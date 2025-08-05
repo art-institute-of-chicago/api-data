@@ -1,0 +1,20 @@
+{
+    "id": "00d95699-6d1a-a994-2e77-05c6ba0fbf83",
+    "lake_guid": "00d95699-6d1a-a994-2e77-05c6ba0fbf83",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/00d95699-6d1a-a994-2e77-05c6ba0fbf83",
+    "title": "AIC1931AlbrightEt_al_comb.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00d95699-6d1a-a994-2e77-05c6ba0fbf83",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "3d940c848403fd5fa87df9a331ed6460",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2025-02-26T19:30:20-06:00",
+    "updated_at": "2025-03-19T15:56:12-05:00",
+    "timestamp": "2025-08-05T15:52:37-05:00"
+}

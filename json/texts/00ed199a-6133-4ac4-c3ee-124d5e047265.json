@@ -1,0 +1,20 @@
+{
+    "id": "00ed199a-6133-4ac4-c3ee-124d5e047265",
+    "lake_guid": "00ed199a-6133-4ac4-c3ee-124d5e047265",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/00ed199a-6133-4ac4-c3ee-124d5e047265",
+    "title": "AIC1897ArtSdtLge4thAn_comb.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00ed199a-6133-4ac4-c3ee-124d5e047265",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "46475b46fde68b453daa6a95f1c43f83",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2020-11-25T06:29:45-06:00",
+    "updated_at": "2020-12-11T14:09:41-06:00",
+    "timestamp": "2025-08-05T15:52:33-05:00"
+}

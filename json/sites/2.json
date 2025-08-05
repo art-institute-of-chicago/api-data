@@ -1,0 +1,23 @@
+{
+    "id": 2,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/2",
+    "title": "American Perspectives: A yearlong celebration of American artistic vision",
+    "description": "You are invited to experience the rich diversity of artistic expression that defines the American experience. Following the highly successful citywide collaboration, Silk Road Chicago, American Perspectives brings together the Art Institute, the Chicago Symphony Orchestra, and the Poetry Foundation to celebrate the myriad artistic traditions that make us who we are as Americans. American Perspectives offers visitors the extraordinary opportunity to view groundbreaking exhibitions of American masters Jasper Johns, Edward Hopper, and Winslow Homer from a new vantage point. A lively assortment of performances, lectures, poetry readings, and gallery talks\u2014featuring the work of some of the country's most prominent artists, writers, performers, and composers\u2014examines the many and varied threads that create our historical and cultural fabric.",
+    "web_url": "http://archive.artic.edu/americanperspectives/",
+    "exhibition_ids": [
+        610,
+        246,
+        619
+    ],
+    "exhibition_titles": [
+        "Focus: William Pope.L Drawing, Dreaming, Drowning (American Perspectives Series)",
+        "Jasper Johns: Gray (American Perspectives Series)",
+        "Richard Misrach:  On the Beach (American Perspectives Series)"
+    ],
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:20-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

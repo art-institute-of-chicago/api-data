@@ -1,0 +1,25 @@
+{
+    "id": 4,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/4",
+    "title": "Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, and Roussel, 1890\u20131930",
+    "description": "Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, and Roussel, 1890\u20131930 is an exhibition of unusually formatted and sometimes very large paintings and screens. Featuring 85 works from around the world, the exhibition explores the importance of decorative paintings from the 1890s to the early decades of the 20th century, focusing on four artists most closely associated with the genre and also most successful with it: Pierre Bonnard, Edouard Vuillard, Maurice Denis, and Ker Xavier Roussel.",
+    "web_url": "http://archive.artic.edu/easel/",
+    "exhibition_ids": [
+        2834
+    ],
+    "exhibition_titles": [
+        "Beyond the Easel: Decorative Painting by Bonnard, Vuillard, Denis, and Roussel, 1890\u20131930"
+    ],
+    "artwork_ids": [
+        144361,
+        153705
+    ],
+    "artwork_titles": [
+        "Earthly Paradise",
+        "Foliage\u2014Oak Tree and Fruit Seller"
+    ],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:20-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

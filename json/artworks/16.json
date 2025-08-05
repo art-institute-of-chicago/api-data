@@ -1,0 +1,169 @@
+{
+    "id": 16,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16",
+    "is_boosted": false,
+    "title": "The Fall of the Giants",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAK+mmLOrnrSsnrevormworqyo72zpb2zpr20pby0qMrBtM/FtM/FtdHIuNLIuAAAACH5BAAAAAAALAAAAAADAAUAAAQLcDlWVBMDhUTAMREAOw==",
+        "width": 1969,
+        "height": 3000,
+        "alt_text": "A work made of etching with drypoint in black on ivory laid paper."
+    },
+    "main_reference_number": "1887.249",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1663,
+    "date_end": 1663,
+    "date_display": "1663",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Salvator Rosa\nItalian, 1615-1673",
+    "place_of_origin": "Italy",
+    "description": "<p>Just as the Giants\u2014Gaia\u2019s offspring\u2014attempt to storm the throne of the Olympian gods, Jupiter brings them crashing down with a thunderbolt. He can be seen at the top in the clouds. Salvator Rosa executed this colossal composition at the pinnacle of his etching career, and dedicated it to the Florentine poet Horatio Quaranta. Rosa\u2019s pessimistic admonition appears at the bottom of the sheet: \u201cThey are raised up high that they may be hurled down in more terrible ruin.\u201d<br>Multitalented with boundless energy, Rosa was also a poet, actor, musician, and painter. He made this print to promote his ideas for a painting of the same subject in hopes that a patron would sponsor its execution.</p>\n",
+    "short_description": null,
+    "dimensions": "72.8 \u00d7 47.4 cm (28 11/16 \u00d7 18 11/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth": null,
+            "width": 47,
+            "height": 72,
+            "diameter": null,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Etching with drypoint in black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "Elizabeth Hammond Stickney Collection",
+    "catalogue_display": "<p>Bartsch 21 only state</p><p>Wallace 115 ?/II</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 11.3588,
+    "color": {
+        "h": 38,
+        "l": 94,
+        "s": 69,
+        "percentage": 0.047209380531627515,
+        "population": 511
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 40784,
+    "artist_title": "Salvator Rosa",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        40784
+    ],
+    "artist_titles": [
+        "Salvator Rosa"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e82b61d4-1d5b-a15d-4d2e-ff9caca3fb51",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.249"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "The Fall of the Giants"
+            ],
+            "weight": 724486,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2025-07-02T15:35:38-05:00",
+    "updated_at": "2025-07-02T15:49:18-05:00",
+    "timestamp": "2025-08-05T14:10:36-05:00"
+}

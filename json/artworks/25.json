@@ -1,0 +1,169 @@
+{
+    "id": 25,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/25",
+    "is_boosted": false,
+    "title": "Jeronimo de Bran",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAGxpX3VyZoJ+cYN/coWCdoeEd4uIe42KfZOMfpKNf5aQg5iThp6XiZ2YiZ2Zi6ull6ymlr26qsjDssrGtQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDI0UEEYgDNFxyIFAvMoSAgAOw==",
+        "width": 2159,
+        "height": 3000,
+        "alt_text": "A work made of engraving in black on ivory laid paper."
+    },
+    "main_reference_number": "1887.266",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1615,
+    "date_end": 1675,
+    "date_display": "c. 1615\u201375",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Lucas Emil Vorsterman (Flemish, 1595-1675)\nafter Jan Lievens (Dutch, 1607-1674)",
+    "place_of_origin": "Flanders",
+    "description": null,
+    "short_description": null,
+    "dimensions": "Sheet: 31.5 \u00d7 22.3 cm (12 7/16 \u00d7 8 13/16 in.)",
+    "dimensions_detail": [
+        {
+            "depth": null,
+            "width": 22,
+            "height": 31,
+            "diameter": null,
+            "clarification": "Sheet"
+        }
+    ],
+    "medium_display": "Engraving in black on ivory laid paper",
+    "inscriptions": "Recto, below image, lower right: D:D: Lucas Vorsterman Sculptor",
+    "credit_line": "Elizabeth Hammond Stickney Collection",
+    "catalogue_display": "<p>Hollstein 136 III/IV</p>",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 12.684,
+    "color": {
+        "h": 46,
+        "l": 53,
+        "s": 11,
+        "percentage": 0.030593028638924265,
+        "population": 302
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 42165,
+    "artist_title": "Lucas Emil Vorsterman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        42165
+    ],
+    "artist_titles": [
+        "Lucas Emil Vorsterman"
+    ],
+    "category_ids": [
+        "PC-13"
+    ],
+    "category_titles": [
+        "Prints and Drawings"
+    ],
+    "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4"
+    ],
+    "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+        "TM-2982"
+    ],
+    "material_titles": [
+        "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b9be1be9-e78e-1681-723d-197d7983b23b",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.266"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Jeronimo de Bran"
+            ],
+            "weight": 170177,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2022-09-21T19:18:44-05:00",
+    "updated_at": "2025-04-15T23:38:55-05:00",
+    "timestamp": "2025-08-05T14:10:37-05:00"
+}

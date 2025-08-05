@@ -1,0 +1,37 @@
+{
+    "id": 2,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/2",
+    "title": "Antiquarian Society",
+    "sort_title": "Antiquarian Society",
+    "alt_titles": [
+        "Art Institute of Chicago Antiquarian Society",
+        "A.I.C. Antiquarian Society",
+        "Decorative Arts Society",
+        "Chicago Society of Decorative Art"
+    ],
+    "is_artist": true,
+    "birth_date": null,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Antiquarian Society",
+            "Antiquarian Society",
+            "Art Institute of Chicago Antiquarian Society",
+            "A.I.C. Antiquarian Society",
+            "Decorative Arts Society",
+            "Chicago Society of Decorative Art"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2024-12-17T16:49:12-06:00",
+    "updated_at": "2024-12-17T16:50:51-06:00",
+    "timestamp": "2025-08-05T15:41:38-05:00"
+}

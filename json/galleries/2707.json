@@ -1,0 +1,16 @@
+{
+    "id": 2707,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/2707",
+    "title": "Gallery 57",
+    "latitude": 41.879197316673,
+    "longitude": -87.621816694736,
+    "tgn_id": null,
+    "is_closed": true,
+    "number": "57",
+    "floor": "LL",
+    "latlon": "41.879197316673,-87.621816694736",
+    "source_updated_at": "2025-02-20T08:53:30-06:00",
+    "updated_at": "2025-02-20T08:55:15-06:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

@@ -1,0 +1,20 @@
+{
+    "id": "0b751772-7937-ca8c-c747-ee97abe4e80d",
+    "lake_guid": "0b751772-7937-ca8c-c747-ee97abe4e80d",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0b751772-7937-ca8c-c747-ee97abe4e80d",
+    "title": "Audio Lecture: Reading: Elizabeth Alexander",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0b751772-7937-ca8c-c747-ee97abe4e80d",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "dc48a6799e282ab0ab59622d98381f60",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2020-12-15T13:21:21-06:00",
+    "updated_at": "2025-03-19T12:44:07-05:00",
+    "timestamp": "2025-08-05T15:52:31-05:00"
+}

@@ -1,0 +1,40 @@
+{
+    "id": 4405,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/4405",
+    "title": "Founding Modern: Radical Design from the 19th Century",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/01_37273_HoffmanArmchair.jpg",
+    "description": "<p>Discover the radical and world changing design of the Arts and Crafts and Secessionist Movements.</p>\n",
+    "intro": "<p>This tour takes listeners to the end of the 19th century, when designers from the UK and Vienna were completely reimagining a philosophy of design. From chairs to clocks, these designers sought to change the way we thought about and used things in our day-to-day lives.</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Andrew Meriwether: Hi, there. My name is Andrew Meriwether. I am the audio producer at the Art Institute of Chicago, and before we get into the tour, I want you to try a little exercise. I want you to imagine a chair that you have in your house or your apartment. How do you feel about that chair? Are there things that you really like, things maybe that you hate? What\u2019s it made of, and where do those things come from? Would you say that it\u2019s your perfect chair? If not, what things would you change about it? What does your ideal chair look like? Is there even such a thing as an ideal chair? Okay, so why is an audio producer asking you to wax philosophical about chairs? Well, at the turn of the 20th century, these kinds of questions were of critical importance to designers from Vienna and the United Kingdom, and on this tour, Founding Modern: Radical Design for the 19th Century, we\u2019re going to tell you how they tried to answer those questions. From pianos to clocks, these designers sought not only to reinvent furniture but to discover how everyday design could improve our lives and our world. Like in all of our tours, we encourage you to take the stops in order. However, feel free to bounce around using the audio numbers listed on the label. We hope you enjoy the tour and thank you for listening. This audio guide is supported by Bloomberg Philanthropies.</p>\n",
+    "artwork_titles": [
+        "Reclining Armchair",
+        "Manxman Piano",
+        "Table",
+        "Tall-Case Clock",
+        "Ad Astra"
+    ],
+    "artist_titles": [
+        "Josef Hoffmann",
+        "Mackay Hugh Baillie Scott",
+        "Charles Rennie Mackintosh",
+        "Josef Hoffmann",
+        "Axeli Gallen-Kallela"
+    ],
+    "suggest_autocomplete_boosted": "Founding Modern: Radical Design from the 19th Century",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Founding Modern: Radical Design from the 19th Century"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:36-05:00",
+    "timestamp": "2025-08-05T15:53:01-05:00"
+}

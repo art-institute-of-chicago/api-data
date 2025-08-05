@@ -1,0 +1,51 @@
+{
+    "id": 77,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/77",
+    "title": "From Darkroom to Digital: Photograhic Variations",
+    "is_featured": false,
+    "position": -1,
+    "short_description": "Although photographs are inherently reproducible, photographers have long maintained that the final print is unique. Ansel Adams likened the negative to a musical score, and the print to its orchestrated performance. Pictorialist photographers at the turn of the century labored over their hand-crafted images, making each resulting object as unrepeatable as a painting. Selections of cropping, enlargement and scale, and different photographic processes also contribute to remarkable diverse effects, even from the very same negative. Now, with improvements in digital technology, artists who once used darkrooms have the opportunity to revisit older images and transform them into something entirely new.",
+    "web_url": "https://www.artic.edu/exhibitions/77/from-darkroom-to-digital-photograhic-variations",
+    "image_url": "https://artic-web.imgix.net/facb979a-61c6-4fce-a296-90bf5bdb0a8a/darkroom.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C352%2C2999%2C1687",
+    "status": "Closed",
+    "aic_start_at": "2005-11-19T00:00:00-06:00",
+    "aic_end_at": "2006-02-26T00:00:00-06:00",
+    "gallery_id": 2147476636,
+    "gallery_title": "Gallery 2",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "4a4f9d71-d6ed-f527-488f-03edb8cb9007",
+    "alt_image_ids": [
+        "907478a1-59df-1b97-c5bc-39de5b23e1df",
+        "04316205-42cb-96e5-5d8d-41e5ddf2b676",
+        "abfd06b5-ff46-7d3c-f761-d6b021f0ec49",
+        "9cfdeffe-bdfc-b8f6-235e-ab4266082abc",
+        "6bd2443a-c5fb-f97e-8ce5-aee253e7b686",
+        "9617ed28-f7be-3f62-02bc-4a4e95742503",
+        "06adc20b-f102-8a3a-e513-d4f5bf14d776",
+        "cd2a55fc-9f4f-a605-12e3-a3dedd5cda9f",
+        "cacaba5f-6606-d7bd-8d55-4570bd8ba716",
+        "79374d23-1efe-a8a3-4165-35306350a41b",
+        "e9aadfe5-ff05-5688-587b-fedd9d24d09b",
+        "6f7b4586-1850-001e-1f87-586404d0fc6d",
+        "da064d7a-efae-450a-c05f-fe811032ed85",
+        "1b1c7d01-ae7b-a71a-e7ca-880ff9017c2e"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "From Darkroom to Digital: Photograhic Variations"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2025-03-06T14:22:27-06:00",
+    "updated_at": "2025-08-04T23:36:58-05:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

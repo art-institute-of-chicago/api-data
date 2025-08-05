@@ -1,0 +1,16 @@
+{
+    "id": 23966,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/23966",
+    "title": "Gallery 286",
+    "latitude": 41.879831071424,
+    "longitude": -87.622303796122,
+    "tgn_id": null,
+    "is_closed": false,
+    "number": "286",
+    "floor": "2",
+    "latlon": "41.879831071424,-87.622303796122",
+    "source_updated_at": "2022-11-26T00:15:18-06:00",
+    "updated_at": "2022-12-27T12:01:13-06:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

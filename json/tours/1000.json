@@ -1,0 +1,48 @@
+{
+    "id": 1000,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/1000",
+    "title": "Magic of the Miniature",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/E17048_reduced.jpg",
+    "description": "<p>Travel back in time through the magic of the Thorne Rooms.</p>\n",
+    "intro": "<p>These 68 fascinating miniatures\u2014the singular vision of Mrs. James Ward Thorne of Chicago\u2014take you inside interiors from the late 13th century to the 1940s. Meticulously constructed by master craftsmen according to Mrs. Thorne\u2019s exacting specifications, the models transport you through time and space. Taking you from a traditional Chinese courtyard to the salon of the French king Louis XVI to a colonial American kitchen, this is an epic tour of interior design around the world, no passport or time machine required.</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>LINDSAY MICAN MORGAN: Excited, excited, Thorne Rooms. Go.</p>\n<p>Welcome to the Mrs. James Ward Thorne Miniature Rooms.  My name is Lindsay Mican Morgan.  I'm the keeper of the Thorne Rooms here at the Art Institute of Chicago.  After Mrs. Thorne constructed the Miniature Rooms they went on tour across the country, stopping at world's fairs and museum.</p>\n<p>ALICE PIRIE WIRTZ: And of course it was extraordinary before they moved the rooms to their present location.</p>\n<p>LINDSEY MICAN MORGAN: Alice Pirie Wirtz was the keeper of the Thorne Rooms at the time.</p>\n<p>I've always been somebody who likes little things, maybe too much so, because I've got too much stuff, you know?</p>\n<p>LINDSAY MICAN MORGAN: Previously to where they are now at the Art Institute, the Miniature Rooms were housed in the east side of the museum.</p>\n<p>ALICE PIRIE WIRTZ:  It was very dark and gloomy, very dark.  There was a big railing in front of the rooms that didn't seem to be attached very securely because I think the children knew that they could shake this railing and move the little objects around in the rooms, and of course there was a train right under the Thorne Rooms. The whole place shook.</p>\n<p>LINDSAY MICAN MORGAN:  In the beginning I think they were somewhat seen as perhaps a useful education tool, but as far as the academics I don't think that they were initially seen exactly as art objects.  If people want to first approach them as, &quot;Oh, doll houses,&quot; it's like, &quot;Yes, sure.&quot;  And now...</p>\n<p>ALICE PIRIE WIRTZ: It's a venture in history.  You can see a Louis VIII or Louis's VI room; you can see a Japanese pagoda, the early American rooms.</p>\n<p>LINDSAY MICAN MORGAN: We tend to sort of write them off as small or insignificant or play things, but miniatures actually have, which we can see in their history, an incredible amount of meaning for humans in both this life and the afterlife.</p>\n<p>MARIANNE MALONE: The Thorne Rooms represent that very primitive, primal important urge that creatures have, a sense of mastery when you can see the whole space in front of you and you are bigger than that space.  You're like a god.  You're creating it.  You're controlling it.</p>\n<p>HANK KUPJACK: These are little 3-dimensional virtual realities.  They're like silent films in color that you provide the life to.</p>\n<p>MARIANNE MALONE: They're an odd thing.  You know they're this fabulous obsession that this one woman had, and she executed it so perfectly and there's nothing like them in the world.</p>\n<p>ALICE PIRIE WIRTZ: You know it's just amazing how she created all this.  You'll never see anything like this again, ever.</p>\n",
+    "artwork_titles": [
+        "E-29: English Roman Catholic Church in the Gothic Style, 1275-1300",
+        "E-12: English Drawing Room of the Georgian Period, c. 1800",
+        "E-24: French Salon of the Louis XVI Period, c. 1780",
+        "A1: Massachusetts Living Room and Kitchen, 1675-1700",
+        "A12: Cape Cod Living Room, 1750-1850",
+        "A30: Georgia Double Parlor, c. 1850",
+        "A37: California Hallway, c. 1940",
+        "Portrait of Mrs. James Ward Thorne",
+        "E-30: Chinese Interior, Traditional"
+    ],
+    "artist_titles": [
+        "Narcissa Niblack Thorne",
+        "Narcissa Niblack Thorne",
+        "Narcissa Niblack Thorne",
+        "Narcissa Niblack Thorne",
+        "Narcissa Niblack Thorne",
+        "Narcissa Niblack Thorne",
+        "Narcissa Niblack Thorne",
+        "Virginia Keep Clark",
+        "Narcissa Niblack Thorne"
+    ],
+    "suggest_autocomplete_boosted": "Magic of the Miniature",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Magic of the Miniature"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:36-05:00",
+    "timestamp": "2025-08-05T15:52:58-05:00"
+}

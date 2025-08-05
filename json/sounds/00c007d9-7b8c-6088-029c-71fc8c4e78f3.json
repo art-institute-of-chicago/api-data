@@ -1,0 +1,24 @@
+{
+    "id": "00c007d9-7b8c-6088-029c-71fc8c4e78f3",
+    "lake_guid": "00c007d9-7b8c-6088-029c-71fc8c4e78f3",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/00c007d9-7b8c-6088-029c-71fc8c4e78f3",
+    "title": "Audio stop 939.mp3",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00c007d9-7b8c-6088-029c-71fc8c4e78f3",
+    "is_multimedia_resource": true,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "0f7fea780f591391c18990ecb75b81ce",
+    "artwork_ids": [
+        207124
+    ],
+    "artwork_titles": [
+        "Living Sculpture"
+    ],
+    "source_updated_at": "2025-04-24T14:00:02-05:00",
+    "updated_at": "2025-04-24T14:00:26-05:00",
+    "timestamp": "2025-08-05T15:52:31-05:00"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 23964,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/23964",
+    "title": "Gallery 290 (Vestibule)",
+    "latitude": 41.880426183464,
+    "longitude": -87.622010094234,
+    "tgn_id": null,
+    "is_closed": false,
+    "number": "290",
+    "floor": "2",
+    "latlon": "41.880426183464,-87.622010094234",
+    "source_updated_at": "2019-04-11T11:54:49-05:00",
+    "updated_at": "2022-12-27T12:02:58-06:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

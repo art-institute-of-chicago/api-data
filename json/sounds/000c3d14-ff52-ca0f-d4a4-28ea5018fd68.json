@@ -1,0 +1,26 @@
+{
+    "id": "000c3d14-ff52-ca0f-d4a4-28ea5018fd68",
+    "lake_guid": "000c3d14-ff52-ca0f-d4a4-28ea5018fd68",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/000c3d14-ff52-ca0f-d4a4-28ea5018fd68",
+    "title": "Audio stop 517.mp3",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/000c3d14-ff52-ca0f-d4a4-28ea5018fd68",
+    "is_multimedia_resource": true,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "859927a8a7513dba63ecf2a7a5283bf4",
+    "artwork_ids": [
+        47953,
+        30214
+    ],
+    "artwork_titles": [
+        "Curly-Haired Youth",
+        "Figure of a Youth"
+    ],
+    "source_updated_at": "2025-04-24T13:40:03-05:00",
+    "updated_at": "2025-04-24T13:40:14-05:00",
+    "timestamp": "2025-08-05T15:52:30-05:00"
+}

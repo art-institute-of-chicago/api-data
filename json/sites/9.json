@@ -1,0 +1,23 @@
+{
+    "id": 9,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/9",
+    "title": "Jasper Johns: Gray",
+    "description": "As one of the most acclaimed and influential living artists, Jasper Johns has been the subject of numerous exhibitions, many of which have explored his signature use of flags, numbers, and other emblems. This exhibition emerges from broader studies of Johns's approach to form, examining for the first time the artist's use of gray in his paintings, sculptures, prints, and drawings from 1955 to the present. Featuring more than 130 works and including major new works that have never been exhibited publicly, the exhibition tracks Johns's application of gray for more than five decades\u2014an investigation that provides a framework for understanding the development of the artist's entire oeuvre.",
+    "web_url": "http://archive.artic.edu/jasperjohns/",
+    "exhibition_ids": [
+        246
+    ],
+    "exhibition_titles": [
+        "Jasper Johns: Gray (American Perspectives Series)"
+    ],
+    "artwork_ids": [
+        184095
+    ],
+    "artwork_titles": [
+        "Near the Lagoon"
+    ],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:20-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

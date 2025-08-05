@@ -1,0 +1,22 @@
+{
+    "id": "PC-103",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/PC-103",
+    "title": "Japanese",
+    "subtype": "department",
+    "parent_id": "PC-7",
+    "aat_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Japanese"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2019-05-08T18:03:43-05:00",
+    "updated_at": "2019-05-09T17:01:10-05:00",
+    "timestamp": "2025-08-05T15:43:55-05:00"
+}

@@ -1,0 +1,10 @@
+{
+    "id": 3,
+    "api_model": "artwork-types",
+    "api_link": "https://api.artic.edu/api/v1/artwork-types/3",
+    "title": "Sculpture",
+    "aat_id": 300301253,
+    "source_updated_at": "2019-05-08T19:03:58-05:00",
+    "updated_at": "2022-03-15T16:31:39-05:00",
+    "timestamp": "2025-08-05T15:43:55-05:00"
+}

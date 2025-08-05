@@ -1,0 +1,23 @@
+{
+    "id": 8,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/8",
+    "title": "Hero, Hawk, and Open Hand",
+    "description": "Hero, Hawk, and Open Hand: American Indian Art of the Ancient Midwest and South explores the themes of a major branch of early civilization in the Americas that is virtually unknown to the public\u2014that of the midwestern and southern United States. The exhibition assembles some 300 masterpieces of stone, ceramic, wood, shell, and copper created between 2000 B.C. and A.D. 1600 and presents them in the context of large-scale plans and reconstruction drawings of major archaeological sites. Sculptural forms embrace a wide range of human, animal, and vegetal motifs, as well as composite imaginary creatures, abstract shapes, and embellished vessels, implements, and items of ritual paraphernalia.",
+    "web_url": "http://archive.artic.edu/herohawk/",
+    "exhibition_ids": [
+        2840
+    ],
+    "exhibition_titles": [
+        "Hero, Hawk, and Open Hand"
+    ],
+    "artwork_ids": [
+        208227
+    ],
+    "artwork_titles": [
+        "Notched Ovate Bannerstone"
+    ],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:20-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

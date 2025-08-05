@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/2",
+    "title": "East Garden at Columbus Drive",
+    "latitude": 41.880643,
+    "longitude": -87.621179,
+    "tgn_id": null,
+    "is_closed": false,
+    "number": null,
+    "floor": "1",
+    "latlon": "41.880643,-87.621179",
+    "source_updated_at": "2024-06-27T11:45:17-05:00",
+    "updated_at": "2024-06-27T11:45:19-05:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

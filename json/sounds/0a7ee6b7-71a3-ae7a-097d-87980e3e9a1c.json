@@ -1,0 +1,24 @@
+{
+    "id": "0a7ee6b7-71a3-ae7a-097d-87980e3e9a1c",
+    "lake_guid": "0a7ee6b7-71a3-ae7a-097d-87980e3e9a1c",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0a7ee6b7-71a3-ae7a-097d-87980e3e9a1c",
+    "title": "Audio stop 731.mp3",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0a7ee6b7-71a3-ae7a-097d-87980e3e9a1c",
+    "is_multimedia_resource": true,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "abfee54237ecdac828342f439762d146",
+    "artwork_ids": [
+        181778
+    ],
+    "artwork_titles": [
+        "Jazz Bowl"
+    ],
+    "source_updated_at": "2025-04-24T13:50:02-05:00",
+    "updated_at": "2025-04-24T13:50:18-05:00",
+    "timestamp": "2025-08-05T15:52:31-05:00"
+}

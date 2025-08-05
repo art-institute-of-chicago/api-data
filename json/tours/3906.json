@@ -1,0 +1,35 @@
+{
+    "id": 3906,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/3906",
+    "title": "A Beautiful Science: The Evolution of Chinese Porcelain",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/default%20%281%29.jpg",
+    "description": "<p>Discover the technology and craft of Chinese Porcelain.</p>\n",
+    "intro": "<p>Join Art Institute conservator, Rachel Sabino, and practicing ceramic artist,\u00a0Michael\u00a0Kaysen, as they take you on a journey into the\u00a0scientific\u00a0and aesthetic marvel of Chinese porcelain. You will traverse hundreds of years of history as you see porcelain develop and change before your eyes.\u00a0</p>\n<p>\u00a0</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Narrator: Welcome to a Beautiful Science: The Evolution of Chinese Porcelain. On this tour you will traverse hundreds of years of history as you witness the scientific and aesthetic marvel of porcelain develop. Your tour will be guided by practicing ceramic artist and staff member at the Art Institute of Chicago, Michael Kaysen.</p>\n<p>Michael: When people talk about Chinese porcelain, they\u2019re usually referring to a blue and white porcelain. We often don\u2019t realize that that\u2019s just one type, one aspect of it. There is a wide range of production. Chinese porcelain, within the museum, covers that and the entire range of that work. It\u2019s a long time period-- a few thousand years. And there were many different types of ware made.</p>\n<p>Narrator: As well as conservator at the Art Institute of Chicago, Rachel Sabino</p>\n<p>Rachel: The extent to which this was a revolutionary technical innovation might not be something that people know about.</p>\n<p>Michael: They were achieving very high temperatures We\u2019re talking 2400 degrees, almost 2500 degrees. And that last few hundred degrees is very difficult to attain.</p>\n<p>Rachel: But of course, I think your average person, when you say, &quot;What is china?&quot; thinks of wedding sets and tea services, maybe figurines, knick-knacks, things that sit on a shelf, dusty. Yeah, it's easy to take for granted something that's so ubiquitous in our daily lives.  We have cups, we have plates, we have vases, we have industrial ceramics in our smartphones.  But the massive scale that this represented in terms of human effort-- not just in sheer physical labor but also technical know-how, pushing the boundaries of technology-- I think it's easy for that to get missed.<br>What I find interesting about it is that for such a humble material-- I mean, it really is basically earth, fire, water-- there's a lot going on.</p>\n",
+    "artwork_titles": [
+        "Vase (Hu) with Horizontal Bands, Loop Handles, and Lionlike Medallions",
+        "Bowl in Saggar",
+        "Bottle Vase with Peony Scrolls",
+        "Covered Hexagonal Lobed Jar with Dragons Chasing a Flaming Pearl",
+        "Covered Bottle-Vase (Meiping) with Children among Blossoming Vine",
+        "Teabowl with Mufurong (Hibiscus) and Dragonfly"
+    ],
+    "artist_titles": [],
+    "suggest_autocomplete_boosted": "A Beautiful Science: The Evolution of Chinese Porcelain",
+    "suggest_autocomplete_all": {
+        "input": [
+            "A Beautiful Science: The Evolution of Chinese Porcelain"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:35-05:00",
+    "timestamp": "2025-08-05T15:52:59-05:00"
+}

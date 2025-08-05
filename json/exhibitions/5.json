@@ -1,0 +1,84 @@
+{
+    "id": 5,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/5",
+    "title": "Manet and the Sea",
+    "is_featured": false,
+    "position": -1,
+    "short_description": "This landmark exhibition is devoted to the marine paintings of Edouard Manet (1832\u20131883), a little-studied but highly significant aspect of the career of the artist who is sometimes referred to as the father of Impressionism.",
+    "web_url": "https://www.artic.edu/exhibitions/5/manet-and-the-sea",
+    "image_url": "https://artic-web.imgix.net/c1005a4f-71b3-4dab-9b88-43d4bf3dd07c/14598.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C87%2C1024%2C576",
+    "status": "Closed",
+    "aic_start_at": "2003-10-20T00:00:00-05:00",
+    "aic_end_at": "2004-01-04T00:00:00-06:00",
+    "gallery_id": 2147475902,
+    "gallery_title": "Regenstein Hall",
+    "artwork_ids": [
+        81572,
+        44892,
+        14598,
+        81557,
+        103101,
+        81533,
+        14620
+    ],
+    "artwork_titles": [
+        "Trouville (Grey and Green, the Silver Sea)",
+        "Fish (Still Life)",
+        "The Beach at Sainte-Adresse",
+        "Seascape",
+        "Marine",
+        "The Races at Longchamp",
+        "Cliff Walk at Pourville"
+    ],
+    "artist_ids": [
+        37279,
+        35577,
+        35809,
+        36351
+    ],
+    "site_ids": [
+        12
+    ],
+    "image_id": "4635353e-a0fc-96d6-180c-476a9785b061",
+    "alt_image_ids": [
+        "e5580333-07bb-0990-8a27-937f40a0d919",
+        "15ae920f-33bb-9637-d00e-65fdd3530570",
+        "059f2728-ac32-8af4-2e42-c9cfa3f4a7d7",
+        "0be7e583-0b00-a441-2f92-51884745c4bc",
+        "d20aa7c9-c267-6e27-f21c-4abf0b578865",
+        "6bb7a43c-bdf0-040f-03b1-48a0fae4f25d",
+        "1564cc1b-79b7-2aed-b5dc-4533ec2789f3",
+        "79dc18be-9f44-8c31-4d9f-fde5c5037a5f",
+        "40c9049b-f2dc-b139-bc92-970186ff0e92",
+        "5c7f31c1-9038-30d0-7ccd-3b7c5bc7e1c1",
+        "2491f08e-3818-6324-33a1-17e9698affdb",
+        "e62ad1e1-2263-2812-df97-0a18704d8868",
+        "39a04be6-4393-1b85-92ad-eefc006dce28",
+        "31e809df-231a-4f52-85e9-ccc58f85bdfe",
+        "fde1287c-0889-c2a5-75d3-99e9b50c75fe",
+        "28032941-4cdb-d8ee-5a7b-03c1ac8db0a0",
+        "8665e09b-073f-0dea-a7cc-2fd59d6a2d42",
+        "2e26b16c-4ff8-c87c-99ac-10f6b220ad1d",
+        "3bad4fdf-7ff0-b4a2-9f3e-0ff7faafeeaf",
+        "479886ce-588e-c646-5301-0a50274c6abd",
+        "926cd504-e123-74aa-4ce2-35f3aca74502",
+        "04ade9c5-353e-1222-88d4-9d27a07e0687",
+        "9e49e0fe-2d7b-1aa8-bead-57d21e9e9f6d",
+        "af826e5d-ea88-f40c-5a29-aaf8ef9d770f"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Manet and the Sea"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2025-02-26T14:23:56-06:00",
+    "updated_at": "2025-08-04T23:37:01-05:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

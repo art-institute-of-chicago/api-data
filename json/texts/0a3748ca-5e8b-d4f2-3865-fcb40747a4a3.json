@@ -1,0 +1,20 @@
+{
+    "id": "0a3748ca-5e8b-d4f2-3865-fcb40747a4a3",
+    "lake_guid": "0a3748ca-5e8b-d4f2-3865-fcb40747a4a3",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/0a3748ca-5e8b-d4f2-3865-fcb40747a4a3",
+    "title": "AIC1955ArtofChi58thAn_comb.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0a3748ca-5e8b-d4f2-3865-fcb40747a4a3",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "bf1b9ce1b9fba3bb08026f96b384fa5c",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2020-11-25T06:29:35-06:00",
+    "updated_at": "2020-12-11T14:09:43-06:00",
+    "timestamp": "2025-08-05T15:52:36-05:00"
+}

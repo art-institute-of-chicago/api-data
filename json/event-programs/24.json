@@ -1,0 +1,11 @@
+{
+    "id": 24,
+    "api_model": "event-programs",
+    "api_link": "https://api.artic.edu/api/v1/event-programs/24",
+    "title": "Society for Contemporary Art",
+    "is_affiliate_group": false,
+    "is_event_host": true,
+    "source_updated_at": "2020-04-01T11:49:54-05:00",
+    "updated_at": "2025-08-04T23:30:08-05:00",
+    "timestamp": "2025-08-05T15:53:53-05:00"
+}

@@ -1,0 +1,25 @@
+{
+    "id": 245410,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245410",
+    "title": "Gustave Caillebotte Paris Street; Rainy Day Mug",
+    "external_sku": 102748,
+    "image_url": "https://shop-images.imgix.net/102748_2.jpg",
+    "web_url": "https://shop.artic.edu/products/102748",
+    "description": "<p>Mug developed from Gustave Caillebotte\u2019s <em>Paris Street; Rainy Day</em>, 1877, from the Art Institute of Chicago\u2019s collection.</p>\n<p>A masterpiece from our collection can be enjoyed every day along with breakfast or afternoon tea!&nbsp;</p>\n<ul>\n<li><strong>Size: </strong>11oz.</li>\n<li><strong>Dimensions: </strong>3.2 x 3.75 in.</li>\n<li><strong>Material: </strong>Ceramic</li>\n<li><strong>Dishwasher (top rack) and microwave safe.</strong><br></li>\n</ul>",
+    "price_display": "<p>$13.95 <s>$0</s></p>",
+    "min_compare_at_price": 0,
+    "max_compare_at_price": 0,
+    "min_current_price": 13.95,
+    "max_current_price": 13.95,
+    "artist_ids": [
+        3829
+    ],
+    "artwork_ids": [
+        20684
+    ],
+    "exhibition_ids": [],
+    "source_updated_at": "2025-08-04T08:30:31-05:00",
+    "updated_at": "2025-08-04T23:10:04-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

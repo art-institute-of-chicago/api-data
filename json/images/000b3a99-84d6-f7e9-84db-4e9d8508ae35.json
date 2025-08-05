@@ -1,0 +1,39 @@
+{
+    "id": "000b3a99-84d6-f7e9-84db-4e9d8508ae35",
+    "lake_guid": "000b3a99-84d6-f7e9-84db-4e9d8508ae35",
+    "api_model": "images",
+    "api_link": "https://api.artic.edu/api/v1/images/000b3a99-84d6-f7e9-84db-4e9d8508ae35",
+    "title": "Copy of 94b",
+    "type": "image",
+    "alt_text": null,
+    "content": null,
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "5d379399e631b8eb9eb4b230b534c340",
+    "iiif_url": "/000b3a99-84d6-f7e9-84db-4e9d8508ae35",
+    "width": 4032,
+    "height": 3024,
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAGlnV21tXIKAcImFd4WFe5OKeJCNepGSfpmVhZqWiZiYjKadi6ajlqiglaakmq6imrGolrmuo7i2pra0qba3tLa3t7+4sL67tMO3pcm6p827psW9rsi9r8K8scC8s8rAt83DtNfLutPLvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwEoIhOF8NJTOZuF5ZC4ihkEygVgchMBBgYg0EgDBoBAEADs=",
+    "colorfulness": 0,
+    "color": {
+        "h": 47,
+        "l": 49,
+        "s": 10,
+        "percentage": 0.004092589968085999,
+        "population": 499
+    },
+    "fingerprint": null,
+    "ahash": null,
+    "phash": null,
+    "artwork_ids": [
+        231132
+    ],
+    "artwork_titles": [
+        "Ch\u014dj\u016b ryakugashiki"
+    ],
+    "source_updated_at": "2022-05-26T12:10:02-05:00",
+    "updated_at": "2025-03-19T17:14:00-05:00",
+    "timestamp": "2025-08-05T15:51:15-05:00"
+}

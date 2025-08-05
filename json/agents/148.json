@@ -1,0 +1,28 @@
+{
+    "id": 148,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/148",
+    "title": "Rosalind Abramson",
+    "sort_title": "Abramson, Rosalind",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1901,
+    "death_date": null,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Rosalind Abramson",
+            "Abramson, Rosalind"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2019-05-14T15:20:19-05:00",
+    "timestamp": "2025-08-05T15:41:38-05:00"
+}

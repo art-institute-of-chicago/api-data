@@ -1,0 +1,177 @@
+{
+    "id": 11,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/11",
+    "is_boosted": false,
+    "title": "Self-Portrait",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAB8ZFyEaFiUZFS0aFCkcFSofFi8cFiIcGCceGDEaFDYdFS8hFi4hGS4hGysjHTMgFzQjGDUkGzYkG0MuIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIOA0hjBFyRBBykMsRIMcQQgAOw==",
+        "width": 6125,
+        "height": 8002,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1887.234",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1878,
+    "date_end": 1878,
+    "date_display": "1878",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "Walter Shirlaw\nAmerican, 1838\u20131909",
+    "place_of_origin": "United States",
+    "description": null,
+    "short_description": null,
+    "dimensions": "70.2 \u00d7 53.4 cm (27 5/8 \u00d7 21 in.)",
+    "dimensions_detail": [
+        {
+            "depth": null,
+            "width": 53,
+            "height": 70,
+            "diameter": null,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Signed l.r.: \"W. Shirlaw, 1878\"",
+    "credit_line": "Gift of Joseph M. Rogers",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": "Chicago, Illinois, South Park Commissioner Exhibition, Feb. 1909.\n\nCincinnati Art Museum, Munich & American Realism in the 19th Century, Apr. 20\u2013May 28, 1978; Milwaukee Art Center, July 13\u2013Aug. 27, 1978; Sacramento, E.B. Crocker Art Gallery, Oct. 28\u2013Dec. 10, 1978.",
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1988,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 0,
+    "color": {
+        "h": 38,
+        "l": 41,
+        "s": 26,
+        "percentage": 1.4282143749776842e-5,
+        "population": 7
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36656,
+    "artist_title": "Walter Shirlaw",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        36656
+    ],
+    "artist_titles": [
+        "Walter Shirlaw"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "self-portraits",
+        "organic material",
+        "american arts"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": "TM-12240",
+    "alt_subject_ids": [],
+    "subject_ids": [
+        "TM-12240"
+    ],
+    "subject_titles": [
+        "self-portraits"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7b7a6f39-1cd8-ea2f-9811-18b0e23edac0",
+    "alt_image_ids": [
+        "3b212d9c-cac1-d846-367d-68ca6cd6c74f"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.234"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Self-Portrait"
+            ],
+            "weight": 1783286,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-12-07T14:12:37-06:00",
+    "updated_at": "2025-07-16T13:02:05-05:00",
+    "timestamp": "2025-08-05T14:10:36-05:00"
+}

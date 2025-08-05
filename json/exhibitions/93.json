@@ -1,0 +1,48 @@
+{
+    "id": 93,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/93",
+    "title": "Faces, Places & Inner spaces",
+    "is_featured": false,
+    "position": -1,
+    "short_description": "Faces, Places, and Inner Spaces, a new interactive exhibition in the Hammerman Gallery of the Kraft Education Center, introduces you to a selection of art from Asia, Europe, and the Americas. Here, you can explore 5 of the 11 works of art in the exhibition and take a virtual tour of the gallery space. Play games, look, read, and have fun!",
+    "web_url": "https://www.artic.edu/exhibitions/93/faces-places-inner-spaces",
+    "image_url": "https://artic-web.imgix.net/9cf6353e-0a47-4e3b-a526-d195c9806fa6/Motley.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C220%2C1616%2C905",
+    "status": "Closed",
+    "aic_start_at": "2006-06-14T00:00:00-05:00",
+    "aic_end_at": "2007-07-08T00:00:00-05:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [
+        140644
+    ],
+    "artwork_titles": [
+        "Self-Portrait"
+    ],
+    "artist_ids": [
+        42445
+    ],
+    "site_ids": [
+        5
+    ],
+    "image_id": "59caa6ed-90c1-a73f-cf78-8a0f6dfc3dbb",
+    "alt_image_ids": [
+        "e676e80d-55c4-9b6c-5265-8d5f34c92b4e",
+        "5cea5ef7-9c9c-24ca-21ca-c20bb8407a0f",
+        "ea79df4f-62cc-f881-68d9-3ffd8d384052"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Faces, Places & Inner spaces"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2025-03-13T08:56:49-05:00",
+    "updated_at": "2025-08-04T23:36:54-05:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

@@ -1,0 +1,196 @@
+{
+    "id": 9,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/9",
+    "is_boosted": false,
+    "title": "Interior of St. Mark's, Venice",
+    "alt_titles": null,
+    "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABoTDS0dECweEDAjFU03JlxCI15FJmlPLmpQKmVRNG1VM2tWOXdaNXhdOHtdQHZiRoFlPoFkP4dqRoxwTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoGIUSBIAxyMM00I4UsNEUAgAOw==",
+        "width": 1938,
+        "height": 2250,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1887.232",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1869,
+    "date_end": 1869,
+    "date_display": "1869",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "David Dalhoff Neal\nAmerican, 1838\u20131915",
+    "place_of_origin": "Munich",
+    "description": null,
+    "short_description": null,
+    "dimensions": "184.2 \u00d7 148.9 cm (72 1/2 \u00d7 58 1/2 in.)",
+    "dimensions_detail": [
+        {
+            "depth": null,
+            "width": 148,
+            "height": 184,
+            "diameter": null,
+            "clarification": null
+        }
+    ],
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Samuel M. Nickerson Collection",
+    "catalogue_display": null,
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "edition": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 21,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "has_advanced_imaging": false,
+    "colorfulness": 41.7412,
+    "color": {
+        "h": 38,
+        "l": 48,
+        "s": 38,
+        "percentage": 0.014782557067334546,
+        "population": 122
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "nomisma_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35975,
+    "artist_title": "David Dalhoff Neal",
+    "alt_artist_ids": [],
+    "artist_ids": [
+        35975
+    ],
+    "artist_titles": [
+        "David Dalhoff Neal"
+    ],
+    "category_ids": [
+        "PC-3"
+    ],
+    "category_titles": [
+        "Arts of the Americas"
+    ],
+    "term_titles": [
+        "painting",
+        "oil paint (paint)",
+        "interiors",
+        "organic material",
+        "american arts",
+        "architecture",
+        "religion",
+        "Venice, Italy",
+        "churches",
+        "cathedrals"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+        "TM-2191"
+    ],
+    "classification_ids": [
+        "TM-9",
+        "TM-2191"
+    ],
+    "classification_titles": [
+        "painting",
+        "american arts"
+    ],
+    "subject_id": "TM-12285",
+    "alt_subject_ids": [
+        "TM-12085",
+        "TM-11421",
+        "TM-12239",
+        "TM-12238",
+        "TM-12237"
+    ],
+    "subject_ids": [
+        "TM-12285",
+        "TM-12085",
+        "TM-11421",
+        "TM-12239",
+        "TM-12238",
+        "TM-12237"
+    ],
+    "subject_titles": [
+        "interiors",
+        "architecture",
+        "religion",
+        "Venice, Italy",
+        "churches",
+        "cathedrals"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+        "TM-2601"
+    ],
+    "material_ids": [
+        "TM-2451",
+        "TM-2601"
+    ],
+    "material_titles": [
+        "oil paint (paint)",
+        "organic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "b55d836c-ee20-59f8-1f0c-a95e09905361",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+        {
+            "input": [
+                "1887.232"
+            ],
+            "contexts": {
+                "groupings": [
+                    "accession"
+                ]
+            }
+        },
+        {
+            "input": [
+                "Interior of St. Mark's, Venice"
+            ],
+            "weight": 800149,
+            "contexts": {
+                "groupings": [
+                    "title"
+                ]
+            }
+        }
+    ],
+    "source_updated_at": "2023-03-03T11:58:14-06:00",
+    "updated_at": "2025-04-15T18:38:44-05:00",
+    "timestamp": "2025-08-05T14:10:36-05:00"
+}

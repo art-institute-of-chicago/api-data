@@ -1,0 +1,20 @@
+{
+    "id": "00a2fd0f-2ceb-3b2d-d328-5f896a56ef1f",
+    "lake_guid": "00a2fd0f-2ceb-3b2d-d328-5f896a56ef1f",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/00a2fd0f-2ceb-3b2d-d328-5f896a56ef1f",
+    "title": "AIC1969ThomasEakins_comb.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00a2fd0f-2ceb-3b2d-d328-5f896a56ef1f",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "dd787cf0401bb0aab1fc5672e90e55dd",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2025-02-26T19:30:14-06:00",
+    "updated_at": "2025-03-19T15:56:27-05:00",
+    "timestamp": "2025-08-05T15:52:38-05:00"
+}

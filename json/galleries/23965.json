@@ -1,0 +1,16 @@
+{
+    "id": 23965,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/23965",
+    "title": "Balcony Caf\u00e9",
+    "latitude": 41.879842360364,
+    "longitude": -87.622101008892,
+    "tgn_id": null,
+    "is_closed": false,
+    "number": "287",
+    "floor": "2",
+    "latlon": "41.879842360364,-87.622101008892",
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-12-27T12:03:05-06:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

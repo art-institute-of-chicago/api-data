@@ -1,0 +1,50 @@
+{
+    "id": 4197,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/4197",
+    "title": "The Teen Tour",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/IM031265_695-int.jpg",
+    "description": "<p>Experience the museum through sounds and stories produced by Chicago teens.</p>\n",
+    "intro": "<p>Expand your perspective on the Grand Staircase. Meditate to an original soundscape in the Ando Gallery. Connect with contemporary art through spoken word by some of Chicago\u2019s best young poets. Immerse yourself in the ideas, interpretations, and creativity of Chicago youth.</p>\n<p>The Art Institute of Chicago is grateful to Glenn and Claire Swogger and the Redbud Foundation for their extraordinary sponsorship expanding the museum\u2019s free admission program to Chicago teens under the age of 18.</p>\n<p>Support for Summer Learning at the Art Institute of Chicago is generously provided by The Jane and David M. Stone Charitable Trust.</p>\n<p>\u00a0</p>\n<p>Teen Programs are partially supported by an IncentOvate Grant from the City of Chicago Department of Cultural Affairs &amp; Special Events.</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>You just walked up the staircase, 22 steps one after another, leading you through this colossal building, a world within a world.</p>\n<p>Around you is a busy avenue of stairs taking you from one destination to another.</p>\n<p>In front of you is Hero Construction by Richard Hunt.</p>\n<p>A hero that brings together the stories within this room.  This sculpture was molded together from different pieces of scrap metal across the city.</p>\n<p>Which is very similar to the way different artworks in the museum come together, they all have a story to tell, a story that makes them unique.</p>\n<p>Before you begin this tour, we want to share a poem by Allie [ph?], a Chicago native and teen council member.  This poem represents her experience at the museum.  We hope it leads you to think of your own.</p>\n<p>This poem is about a girl trying to teaching black and brown kids they existed before the African Diaspora, that there were paintings and painters and muses.  We have more history than pain.  Tell them they could create a Mona Lisa on the South Side and that they could connect to the person on the West Side who steals paintbrushes from art class to created bedroom galleries.  This poem is about just a girl but a message, to tell the world we are artists, that we deserve museums on the South Side and the West Side and the East Side, that we deserve art classes, that we deserve to be able to create art, tell them our body is art.</p>\n<p>The Art Institute of Chicago is home to hundreds of thousands of pieces and an endless number of stories.</p>\n<p>In this audio guide we are sharing 12 of them.</p>\n<p>Featuring voices of young people from Chicago and beyond.</p>\n<p>Telling stories of memories, cities.</p>\n<p>Immigration, outer space.</p>\n<p>Fantasies and more.  We are glad to have shared this personal story and invite you to enjoy the others on this audio guide.</p>\n",
+    "artwork_titles": [
+        "Nightlife",
+        "\"Untitled\"",
+        "America Windows",
+        "Paperweight",
+        "The Shelton with Sunspots, N.Y.",
+        "Starry Night and the Astronauts",
+        "Mr. Pointy",
+        "Untitled #86",
+        "Inventions of the Monsters",
+        "Untitled (girlfriend)"
+    ],
+    "artist_titles": [
+        "Archibald John Motley Jr.",
+        "Felix Gonzalez-Torres",
+        "Marc Chagall",
+        "Compagnie de Saint Louis",
+        "Georgia O'Keeffe",
+        "Alma Thomas",
+        "Takashi Murakami",
+        "Cindy Sherman",
+        "Salvador Dal\u00ed",
+        "Richard Prince"
+    ],
+    "suggest_autocomplete_boosted": "The Teen Tour",
+    "suggest_autocomplete_all": {
+        "input": [
+            "The Teen Tour"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:33-05:00",
+    "timestamp": "2025-08-05T15:52:59-05:00"
+}

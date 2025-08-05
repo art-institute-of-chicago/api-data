@@ -1,0 +1,22 @@
+{
+    "id": "PC-10",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/PC-10",
+    "title": "Painting and Sculpture of Europe",
+    "subtype": "department",
+    "parent_id": null,
+    "aat_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Painting and Sculpture of Europe"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-09-12T11:56:38-05:00",
+    "updated_at": "2020-09-12T12:33:10-05:00",
+    "timestamp": "2025-08-05T15:43:55-05:00"
+}

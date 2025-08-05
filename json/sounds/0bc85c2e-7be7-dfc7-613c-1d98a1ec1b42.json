@@ -1,0 +1,20 @@
+{
+    "id": "0bc85c2e-7be7-dfc7-613c-1d98a1ec1b42",
+    "lake_guid": "0bc85c2e-7be7-dfc7-613c-1d98a1ec1b42",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0bc85c2e-7be7-dfc7-613c-1d98a1ec1b42",
+    "title": "Audio Lecture: Artists Connect: Adelheid Mers Connects with Carl Blechen",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0bc85c2e-7be7-dfc7-613c-1d98a1ec1b42",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "8d243efd0c198cd45090e43160928cce",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2020-12-15T13:21:23-06:00",
+    "updated_at": "2025-03-19T12:44:05-05:00",
+    "timestamp": "2025-08-05T15:52:31-05:00"
+}

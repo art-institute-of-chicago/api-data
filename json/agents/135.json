@@ -1,0 +1,35 @@
+{
+    "id": 135,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/135",
+    "title": "Gertrude Abercrombie",
+    "sort_title": "Abercrombie, Gertrude",
+    "alt_titles": null,
+    "is_artist": true,
+    "birth_date": 1909,
+    "death_date": 1977,
+    "description": "<p>A leading figure of Chicago\u2019s Hyde Park arts scene in the mid-20th century, Gertrude Abercrombie was acclaimed for her complex self-portraits and enigmatic paintings of stark interiors and illusory landscapes. Inspired by the European movement of Surrealism, which broadly sought to probe the mind\u2019s conscious and unconscious states, she and her fellow Midwestern Surrealists adopted the movement according to their own signature styles. Abercrombie\u2019s approach was grounded in both realism and dreams. It was also deeply personal; many of her paintings contain objects the artist identified with herself. Some of these like brooms, hats, and cats were associated with a witch\u2019s persona, which she sometimes embraced in her own dress. \u201cSurrealism is meant for me,\u201d she remarked, \u201cbecause I am a pretty realistic person but don\u2019t like all I see. So I dream that it is changed. Then I change it to the way I want it. It is almost always pretty real. Only mystery and fantasy have been added. All foolishness has been taken out. It becomes my own dream.\u201d</p><p>Although born in Texas, Abercrombie spent most of her life in Chicago. She graduated from the University of Illinois at Urbana-Champaign with a degree in romance languages and studied figure drawing at the School of the Art Institute of Chicago. In <a href=\"https://www.artic.edu/exhibitions/5728/chicago-and-vicinity-40th-annual\" target=\"_blank\">1936</a> and <a href=\"https://www.artic.edu/exhibitions/5853/chicago-and-vicinity-42nd-annual\" target=\"_blank\">1938</a> she won prizes at the Art Institute of Chicago's <em>Annual Exhibition of Works by Artists of Chicago and Vicinity</em>. During the 1940s and 1950s, she was known for holding parties and artistic gatherings at her Hyde Park home, inviting visual artists and prominent jazz musicians such as Dizzy Gillespie. Abercrombie\u2019s work was celebrated at the end of her life by a retrospective at the Hyde Park Arts Center. Her paintings continued to influence future generations, including a group of Chicago artists known as the <a href=\"https://www.artic.edu/artists/114577/the-hairy-who-art-green-gladys-nilsson-jim-nutt-jim-falconer-suellen-rocca-and-karl-wirsum\" target=\"_blank\">Hairy Who</a>.</p>",
+    "ulan_id": null,
+    "suggest_autocomplete_boosted": {
+        "input": [
+            "Gertrude Abercrombie",
+            "Abercrombie, Gertrude"
+        ],
+        "weight": 3
+    },
+    "suggest_autocomplete_all": {
+        "input": [
+            "Gertrude Abercrombie",
+            "Abercrombie, Gertrude"
+        ],
+        "weight": 3,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2024-05-02T12:28:49-05:00",
+    "updated_at": "2025-07-16T23:23:26-05:00",
+    "timestamp": "2025-08-05T15:41:38-05:00"
+}

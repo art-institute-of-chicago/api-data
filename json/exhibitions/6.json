@@ -1,0 +1,36 @@
+{
+    "id": 6,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/6",
+    "title": "Watercolors by Winslow Homer: The Color of Light",
+    "is_featured": false,
+    "position": -1,
+    "short_description": null,
+    "web_url": null,
+    "image_url": null,
+    "status": "Closed",
+    "aic_start_at": "2008-02-16T00:00:00-06:00",
+    "aic_end_at": "2008-05-11T00:00:00-05:00",
+    "gallery_id": 2147475902,
+    "gallery_title": "Regenstein Hall",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": null,
+    "alt_image_ids": [],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Watercolors by Winslow Homer: The Color of Light"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-09-07T23:24:25-05:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

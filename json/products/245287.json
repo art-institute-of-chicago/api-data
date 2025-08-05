@@ -1,0 +1,25 @@
+{
+    "id": 245287,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245287",
+    "title": "Georges Seurat A Sunday on La Grande Jatte\u20141884 Umbrella",
+    "external_sku": 101134,
+    "image_url": "https://shop-images.imgix.net/101134_2.jpg",
+    "web_url": "https://shop.artic.edu/products/101134",
+    "description": "<p data-mce-fragment=\"1\">Umbrella developed from Georges Seurat\u2019s&nbsp;<em data-mce-fragment=\"1\">A Sunday on La Grande Jatte\u20141884,</em>&nbsp;1884-86, from the Art Institute of Chicago\u2019s collection</p><p data-mce-fragment=\"1\">Open up a masterpiece and take it with you a rainy day to keep you dry, or protect you from the sun.</p><ul><li><strong>Dimensions:</strong> Closed- 9.5 x 2 in. Open- 38 in.</li><li><strong>Materials:</strong> Polyester, Plastic, Aluminum.</li><li><strong>Auto open, close.</strong></li><li><strong>Come with&nbsp;protective sleeve.</strong></li></ul>",
+    "price_display": "<p>$40 <s>$0</s></p>",
+    "min_compare_at_price": 0,
+    "max_compare_at_price": 0,
+    "min_current_price": 40,
+    "max_current_price": 40,
+    "artist_ids": [
+        40810
+    ],
+    "artwork_ids": [
+        27992
+    ],
+    "exhibition_ids": [],
+    "source_updated_at": "2025-08-04T08:30:31-05:00",
+    "updated_at": "2025-08-04T23:10:04-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

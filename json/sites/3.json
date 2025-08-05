@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/3",
+    "title": "Curious Corner",
+    "description": "Curious Corner is an Art Institute of Chicago website designed for children (ages 3\u201312), their friends, and families. Explore and learn about art from around the world. Look closely and investigate artworks. Connect personal experience with artworks through playful, creative activities. Parents and educators of all kinds can also explore related online resources that help foster learning in the home, classroom, and museum. Curious Corner is also available on computer stations in the Vitale Family Room of the Ryan Education Center and in Gallery 10 at the foot of the Grand Staircase.",
+    "web_url": "http://archive.artic.edu/cc/",
+    "exhibition_ids": [],
+    "exhibition_titles": [],
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:20-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

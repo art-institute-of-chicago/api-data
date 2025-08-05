@@ -1,0 +1,31 @@
+{
+    "id": 102,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/102",
+    "title": "Alvar Aalto",
+    "sort_title": "Aalto, Alvar",
+    "alt_titles": [
+        "Hugo Alvar Henrik Aalto"
+    ],
+    "is_artist": true,
+    "birth_date": 1898,
+    "death_date": 1976,
+    "description": null,
+    "ulan_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Alvar Aalto",
+            "Aalto, Alvar",
+            "Hugo Alvar Henrik Aalto"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "1976-09-02T11:20:00-05:00",
+    "updated_at": "2022-03-15T16:46:27-05:00",
+    "timestamp": "2025-08-05T15:41:38-05:00"
+}

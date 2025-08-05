@@ -1,0 +1,24 @@
+{
+    "id": "0b695e68-80e2-f1f6-4256-e554d4585b78",
+    "lake_guid": "0b695e68-80e2-f1f6-4256-e554d4585b78",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0b695e68-80e2-f1f6-4256-e554d4585b78",
+    "title": "Audio stop 617.mp3",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0b695e68-80e2-f1f6-4256-e554d4585b78",
+    "is_multimedia_resource": true,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "cf8bbf167b94f7a37358fe9d757ff18b",
+    "artwork_ids": [
+        152836
+    ],
+    "artwork_titles": [
+        "A Goddess"
+    ],
+    "source_updated_at": "2025-04-24T13:50:03-05:00",
+    "updated_at": "2025-04-24T13:50:15-05:00",
+    "timestamp": "2025-08-05T15:52:31-05:00"
+}

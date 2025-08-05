@@ -1,0 +1,24 @@
+{
+    "id": "0b9884c7-5431-9081-17c3-0b99f079c385",
+    "lake_guid": "0b9884c7-5431-9081-17c3-0b99f079c385",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0b9884c7-5431-9081-17c3-0b99f079c385",
+    "title": "Audio stop 428.mp3",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0b9884c7-5431-9081-17c3-0b99f079c385",
+    "is_multimedia_resource": true,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "9ca102ccf6611759d1c29dc109237787",
+    "artwork_ids": [
+        16159
+    ],
+    "artwork_titles": [
+        "Ecce Agnus Dei"
+    ],
+    "source_updated_at": "2025-04-24T13:40:03-05:00",
+    "updated_at": "2025-04-24T13:40:13-05:00",
+    "timestamp": "2025-08-05T15:52:30-05:00"
+}

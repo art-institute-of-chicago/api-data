@@ -1,0 +1,46 @@
+{
+    "id": 2352,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/2352",
+    "title": "Visions of America",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/bf4f48ed-2bfd-5273-f743-86d6c66b19a3.jpg",
+    "description": "<p>Inspired by the hit musical Hamilton, explore America now, through America\u00a0then.\u00a0</p>\n",
+    "intro": "<p>Narrated by two principal cast members from the Chicago production of Hamilton\u2014this new audio tour offers a contemporary lens on art from the early years of the United States. Get to know the people, places, and stories behind a variety of works of early American art and gain a new understanding of America now.</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Ari Afsar:  Welcome, to Visions of America, an audio tour inspired by and created in collaboration with  Hamilton the musical. My name is Ari Afsar, and I play Eliza Schulyer in Hamilton.</p>\n<p>Miguel Cervantes: and I\u2019m Miguel Cervantes, I play Alexander Hamilton in the musical. Together, we\u2019ll be your guides as we expand our ideas of what American art is and what it means to us today.</p>\n<p>Ari Afsar: Just as Hamilton examines American history through the lens of contemporary issues and musical styles, this tour challenges our assumptions about artworks from the past. You\u2019ll hear about  the people, places, and stories behind some examples of early American art, and leave with a more complex and rich understanding of the collection.</p>\n<p>Miguel Cervantes: You\u2019ll also be hearing from curators Annelise Madsen and Elizabeth McGoey in the Department of American Art as we make our way through the tour. Join us, and discover America now through America then.</p>\n",
+    "artwork_titles": [
+        "Punch Bowl",
+        "Elizabeth Grant Bankson Beatty (Mrs. James Beatty) and Her Daughter Susan",
+        "Distant View of Niagara Falls",
+        "General Andrew Jackson",
+        "The Freedman",
+        "Zenobia, Queen of Palmyra",
+        "The Irish Question",
+        "Armchair"
+    ],
+    "artist_titles": [
+        "Chinese export porcelain",
+        "Joshua Johnson",
+        "Thomas Cole",
+        "William Rush",
+        "John Quincy Adams Ward",
+        "Harriet Hosmer",
+        "De Scott Evans",
+        "George Jakob Hunzinger"
+    ],
+    "suggest_autocomplete_boosted": "Visions of America",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Visions of America"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:37-05:00",
+    "timestamp": "2025-08-05T15:52:58-05:00"
+}

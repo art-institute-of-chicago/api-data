@@ -1,0 +1,16 @@
+{
+    "id": 346,
+    "api_model": "galleries",
+    "api_link": "https://api.artic.edu/api/v1/galleries/346",
+    "title": "Stock Exchange Trading Room",
+    "latitude": 41.879566769738,
+    "longitude": -87.621309757233,
+    "tgn_id": null,
+    "is_closed": false,
+    "number": null,
+    "floor": "1",
+    "latlon": "41.879566769738,-87.621309757233",
+    "source_updated_at": "2019-10-30T17:13:39-05:00",
+    "updated_at": "2022-12-27T12:02:52-06:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/1",
+    "title": "Chicago Architecture: Ten Visions",
+    "description": "Chicago Architecture: Ten Visions presents diverse views of the future of Chicago\u2019s built environment from 10 internationally renowned architects. The architects were selected from an invited competition juried by architects Stanley Tigerman and Harry Cobb, in collaboration with curators from the Art Institute\u2019s Department of Architecture. The 10 architects reflect a cross section of Chicago\u2019s vibrant architectural scene\u2014from large and small firms as well as the academic community\u2014bringing to this exhibition diverse experiences and insights. Each architect was asked to define an important issue for the future of Chicago and create a \u201cspatial commentary\u201d on that particular theme. Within a lively plan designed by Stanley Tigerman, each of the participants has curated and designed his or her own mini-exhibition in a space of approximately 21 feet square. Tigerman\u2019s setting creates a linear sequence in which visitors pass through the architects\u2019 spaces to an interactive area where the architects\u2019 commentaries can be heard by picking up a telephone. Visitors are encouraged to record their comments on any and all of the \u201cten visions.\u201d",
+    "web_url": "http://archive.artic.edu/10visions/",
+    "exhibition_ids": [
+        2839
+    ],
+    "exhibition_titles": [
+        "Chicago Architecture: Ten Visions"
+    ],
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:20-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

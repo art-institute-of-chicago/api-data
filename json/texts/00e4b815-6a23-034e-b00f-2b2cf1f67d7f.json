@@ -1,0 +1,20 @@
+{
+    "id": "00e4b815-6a23-034e-b00f-2b2cf1f67d7f",
+    "lake_guid": "00e4b815-6a23-034e-b00f-2b2cf1f67d7f",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/00e4b815-6a23-034e-b00f-2b2cf1f67d7f",
+    "title": "AIC1926IKManoir_comb.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00e4b815-6a23-034e-b00f-2b2cf1f67d7f",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "0d084bd1f051fe59c7bc91841f9a83d6",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2020-11-25T06:29:17-06:00",
+    "updated_at": "2020-12-11T14:09:50-06:00",
+    "timestamp": "2025-08-05T15:52:35-05:00"
+}

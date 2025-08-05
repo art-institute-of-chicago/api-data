@@ -1,0 +1,22 @@
+{
+    "id": "PC-1",
+    "api_model": "category-terms",
+    "api_link": "https://api.artic.edu/api/v1/category-terms/PC-1",
+    "title": "Arts of Africa",
+    "subtype": "department",
+    "parent_id": null,
+    "aat_id": null,
+    "suggest_autocomplete_all": {
+        "input": [
+            "Arts of Africa"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2020-09-15T12:08:47-05:00",
+    "updated_at": "2020-09-15T14:20:38-05:00",
+    "timestamp": "2025-08-05T15:43:55-05:00"
+}

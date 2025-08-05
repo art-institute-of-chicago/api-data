@@ -1,0 +1,23 @@
+{
+    "id": 10,
+    "api_model": "sites",
+    "api_link": "https://api.artic.edu/api/v1/sites/10",
+    "title": "Jeff Wall",
+    "description": "Epic and luminous, the work of Jeff Wall has overturned nearly every convention of photography. Meticulously staged and theatrical in scale, Wall\u2019s images have more in common with the grandest history painting of the 18th century and the flickering mesmerism of cinema than with the fleeting, documentary style of much of modern photography. Forty-one works of the Vancouver-based artist, who pioneered the use of the light box as a vehicle for displaying photographs, are included in this major retrospective exhibition, previously installed in the Museum of Modern Art in New York.",
+    "web_url": "http://archive.artic.edu/jeff_wall/",
+    "exhibition_ids": [
+        241
+    ],
+    "exhibition_titles": [
+        "Jeff Wall"
+    ],
+    "artwork_ids": [
+        157160
+    ],
+    "artwork_titles": [
+        "The Flooded Grave"
+    ],
+    "source_updated_at": null,
+    "updated_at": "2025-08-01T03:00:21-05:00",
+    "timestamp": "2025-08-05T15:53:48-05:00"
+}

@@ -1,0 +1,23 @@
+{
+    "id": 245592,
+    "api_model": "products",
+    "api_link": "https://api.artic.edu/api/v1/products/245592",
+    "title": "Salvador Dal\u00ed Inventions of the Monsters Unmatted Print",
+    "external_sku": 104950,
+    "image_url": "https://shop-images.imgix.net/104950_2.jpg",
+    "web_url": "https://shop.artic.edu/products/104950",
+    "description": "<p>Unmatted print developed from Salvador Dal\u00ed\u2019s <em>Inventions of the Monsters</em>, 1937, from The Art Institute of Chicago\u2019s collection. \u00a9 Salvador Dal\u00ed, Fundaci\u00f3 Gala- Salvador Dal\u00ed / Artists Rights Society (ARS), New York, 2022.</p>\n<p><em>Inventions of the Monsters</em> has an ominous mood. It is rife with threats of danger, from the menacing fire in the distance to the sibylline figure in the foreground with an hourglass and a butterfly, both symbols of the inevitability of death. Next to this figure sit Dal\u00ed and his wife and muse, Gala. With his native Catalonia embroiled in the Spanish Civil War, the artist surely felt great anxiety over a world without a safe haven, a world that indeed had allowed for the invention of monsters.</p>\n<ul>\n<li><strong>Print Reproduction</strong></li>\n<li><strong>Image size: </strong>&nbsp;7.75 x 12 in.</li>\n<li><strong>Full poster size: </strong>&nbsp;11 x 14 in.</li>\n<li><strong>Material: </strong>Premium Cardstock<br></li>\n</ul>",
+    "price_display": "<p>$14.5 <s>$0</s></p>",
+    "min_compare_at_price": 0,
+    "max_compare_at_price": 0,
+    "min_current_price": 14.5,
+    "max_current_price": 14.5,
+    "artist_ids": [
+        34123
+    ],
+    "artwork_ids": [],
+    "exhibition_ids": [],
+    "source_updated_at": "2025-08-04T08:30:31-05:00",
+    "updated_at": "2025-08-04T23:10:05-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

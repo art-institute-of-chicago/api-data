@@ -1,0 +1,20 @@
+{
+    "id": "0a369977-5e35-ea49-2365-ab2c0a36a4e2",
+    "lake_guid": "0a369977-5e35-ea49-2365-ab2c0a36a4e2",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/0a369977-5e35-ea49-2365-ab2c0a36a4e2",
+    "title": "AIC1986FriedrichWeinbrenner_comb.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0a369977-5e35-ea49-2365-ab2c0a36a4e2",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "a8b9d841d424f658fe6bdff096127516",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2025-02-26T19:30:11-06:00",
+    "updated_at": "2025-03-19T15:56:32-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

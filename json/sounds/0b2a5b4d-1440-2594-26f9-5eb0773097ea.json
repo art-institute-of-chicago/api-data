@@ -1,0 +1,24 @@
+{
+    "id": "0b2a5b4d-1440-2594-26f9-5eb0773097ea",
+    "lake_guid": "0b2a5b4d-1440-2594-26f9-5eb0773097ea",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0b2a5b4d-1440-2594-26f9-5eb0773097ea",
+    "title": "Audio stop 764.mp3",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0b2a5b4d-1440-2594-26f9-5eb0773097ea",
+    "is_multimedia_resource": true,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "e7ffdc70d9895818e5804a339499d018",
+    "artwork_ids": [
+        111317
+    ],
+    "artwork_titles": [
+        "Am\u00e9d\u00e9e-David, the Comte de Pastoret"
+    ],
+    "source_updated_at": "2025-04-24T13:55:03-05:00",
+    "updated_at": "2025-04-24T13:55:25-05:00",
+    "timestamp": "2025-08-05T15:52:30-05:00"
+}

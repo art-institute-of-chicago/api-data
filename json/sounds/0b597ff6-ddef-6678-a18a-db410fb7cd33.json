@@ -1,0 +1,24 @@
+{
+    "id": "0b597ff6-ddef-6678-a18a-db410fb7cd33",
+    "lake_guid": "0b597ff6-ddef-6678-a18a-db410fb7cd33",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0b597ff6-ddef-6678-a18a-db410fb7cd33",
+    "title": "Audio stop 598.mp3",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0b597ff6-ddef-6678-a18a-db410fb7cd33",
+    "is_multimedia_resource": true,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "9c63c88a650452a5f6f0bc5c8a5390cf",
+    "artwork_ids": [
+        194522
+    ],
+    "artwork_titles": [
+        "Tetradrachm (Coin) Portraying Queen Cleopatra VII"
+    ],
+    "source_updated_at": "2025-04-24T13:45:03-05:00",
+    "updated_at": "2025-04-24T13:45:14-05:00",
+    "timestamp": "2025-08-05T15:52:31-05:00"
+}

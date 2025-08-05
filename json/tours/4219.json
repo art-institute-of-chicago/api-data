@@ -1,0 +1,37 @@
+{
+    "id": 4219,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/4219",
+    "title": "Politics, Status, Fashion: The Arms and Armor Collection",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/aa-pistol-prepped.jpg",
+    "description": "<p>Immerse yourself in the lives of royalty, warfare and sport, and Renaissance fashion in this audio tour for the Arms and Armor collection at the Art Institute of Chicago.</p>\n",
+    "intro": "<p>On this tour you, curator Jonathan Tavares will take you on a journey through the rich Arms and Armor collection. Along the way you'll hear from Medieval and Renaissance historian, Jonathan Lyon, historian and jousting expert Tobias Capwell, and Renaissance fashion designer, Jenny Tirimani.</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Narrator: Welcome to Arms and Armor: Fashion, Politics, and Power. This audio tour is comprised of eight stops and spans the three galleries of the Arms and Armor collection. You'll begin with armor designated for the bodyguards of powerful Renaissance princes. You'll then enter the large gallery featuring weapons and armor used in the heart of battle as well as festive tournaments. Finally, you'll enter the last gallery, the princely gun cabinet, with elaborate firearms and other curiosities. Along the way you'll hear from curator Jonathan Tavarus, medieval historian Jonathan Lyon, jousting expert Tobias Capwell, and Renaissance fashion designer Jenny Tiramani. We hope you enjoy the tour and thank you for listening.</p>\n",
+    "artwork_titles": [
+        "Two-Handed Sword for the Bodyguard of Julius, Duke of Brunswick-L\u00fcneburg and Prince of Wolfenb\u00fcttel",
+        "Infantry Armor",
+        "Armor for the Joust",
+        "Boy's Armor",
+        "Wheellock Pistol (Pedrenyal) of King Louis XIII of France",
+        "Saddle Steels (Front three piece)",
+        "Mail Shirt",
+        "Walking Stick-Hammer-Sword-Wheellock Pistol"
+    ],
+    "artist_titles": [],
+    "suggest_autocomplete_boosted": "Politics, Status, Fashion: The Arms and Armor Collection",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Politics, Status, Fashion: The Arms and Armor Collection"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:37-05:00",
+    "timestamp": "2025-08-05T15:53:00-05:00"
+}

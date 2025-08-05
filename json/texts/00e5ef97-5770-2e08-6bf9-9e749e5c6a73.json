@@ -1,0 +1,20 @@
+{
+    "id": "00e5ef97-5770-2e08-6bf9-9e749e5c6a73",
+    "lake_guid": "00e5ef97-5770-2e08-6bf9-9e749e5c6a73",
+    "api_model": "texts",
+    "api_link": "https://api.artic.edu/api/v1/texts/00e5ef97-5770-2e08-6bf9-9e749e5c6a73",
+    "title": "AIC1958Seurat_comb.pdf",
+    "type": "text",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/00e5ef97-5770-2e08-6bf9-9e749e5c6a73",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "e58c1e4558c638ae75b559703dc7225f",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2025-02-26T19:30:16-06:00",
+    "updated_at": "2025-03-19T15:56:23-05:00",
+    "timestamp": "2025-08-05T15:52:39-05:00"
+}

@@ -1,0 +1,255 @@
+{
+    "artworks": {
+        "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "agents": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "places": {
+        "license_text": "The data in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. Contains information from the J. Paul Getty Trust, Getty Research Institute, the Getty Thesaurus of Geographic Names, which is made available under the ODC Attribution License.",
+        "license_links": [
+            "https://creativecommons.org/licenses/by/4.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "galleries": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "exhibitions": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "agent-types": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "agent-roles": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "artwork-place-qualifiers": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "artwork-date-qualifiers": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "artwork-types": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "category-terms": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "images": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "videos": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "sounds": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "texts": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "products": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "tours": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "mobile-sounds": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "publications": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "sections": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "sites": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "events": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "event-occurrences": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "event-programs": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "articles": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "highlights": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "static-pages": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "generic-pages": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "landing-pages": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "press-releases": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "educator-resources": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "digital-publications": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "digital-publication-articles": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    },
+    "printed-publications": {
+        "license_text": "The data in this response may be protected by copyright, and other restrictions, of the Art Institute of Chicago and third parties. You may use this data for noncommercial educational and personal use and for \"fair use\" as authorized under law, provided that you also retain all copyright and other proprietary notices contained on the materials and cite the author and source of the materials.",
+        "license_links": [
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.13"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "id": 4235,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/4235",
+    "title": "Life, Death, and Salvation: Stories of the Renaissance",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/devart-tour-prepped.jpg",
+    "description": "<p>Come learn how Reliquaries were used as sideshow attractions, St. George the Dragon slayer, and royal Jewels with healing powers on this tour of Medieval and Renaissance art.\u00a0</p>\n",
+    "intro": "<p>On this tour, curators Martha Wolff and Rebecca Long reveal stories from the Renaissance through the fascinating collection in the Deering galleries. Dive deep into the ivory trade, Early music, and so much more. The stories are engaging, surprising, and sometimes even a little funny.\u00a0</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Narrator: Welcome to Life, Death and Salvation: Stories of the Renaissance.  This tour is made up of eight stops that span four rooms in the Deering Galleries.  On this audio tour, curators Rebecca Long and Martha Wolfe will give you an insider's look at the Art Institute's collection of medieval and renaissance art.  You'll hear about how reliquaries are like side show attractions, real jewels with healing powers, St. George the Dragon Slayer, and much, much more.  The stories are unexpected, intriguing, and sometimes even a little funny.  We hope you enjoy the tour and thank you for listening.  This audio guide is supported by Bloomberg Philanthropies.</p>\n",
+    "artwork_titles": [
+        "Wine Cistern",
+        "Reliquary Monstrance with a Tooth of Saint John the Baptist",
+        "Virgin and Child",
+        "Saint George and the Dragon",
+        "The Adventures of Ulysses",
+        "Portrait of a Man in a Red Cap",
+        "Crown, Probably for a Statue of the Christ Child"
+    ],
+    "artist_titles": [
+        "Francesco Durantino",
+        "Weddeghe Velstede",
+        "French",
+        "Bernat Martorell",
+        "Apollonio di Giovanni",
+        "German"
+    ],
+    "suggest_autocomplete_boosted": "Life, Death, and Salvation: Stories of the Renaissance",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Life, Death, and Salvation: Stories of the Renaissance"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:34-05:00",
+    "timestamp": "2025-08-05T15:53:01-05:00"
+}

@@ -1,0 +1,55 @@
+{
+    "id": 84,
+    "api_model": "exhibitions",
+    "api_link": "https://api.artic.edu/api/v1/exhibitions/84",
+    "title": "On the Scene: Jessica Rowe, Jason Salavon, Brian Ulrich",
+    "is_featured": false,
+    "position": -1,
+    "short_description": "Drawing on the dynamic photography scene in Chicago, this exhibition focuses on work by three younger talents: Jessica Rowe, Jason Salavon, and Brian Ulrich. Jessica Rowe photographs spaces in our homes where we display the objects, photos, and memorabilia that we want others to see: old portraits atop a dresser, statues on a mantel, or cherished book collections. Over the past year, in a series called Remnant, she has turned this attention to even more intimate objects\u2014clothing.",
+    "web_url": "https://www.artic.edu/exhibitions/84/on-the-scene-jessica-rowe-jason-salavon-brian-ulrich",
+    "image_url": "https://artic-web.imgix.net/045d1354-0fd4-4b71-8e6e-eaca72321efc/onthescene.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C295%2C2999%2C1687",
+    "status": "Closed",
+    "aic_start_at": "2005-11-12T00:00:00-06:00",
+    "aic_end_at": "2006-01-28T00:00:00-06:00",
+    "gallery_id": null,
+    "gallery_title": null,
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "artist_ids": [],
+    "site_ids": [],
+    "image_id": "6d4a790e-ec22-f20a-f83e-b34718f4c788",
+    "alt_image_ids": [
+        "0ec14c54-0905-a8a0-97d1-3d35b47b5781",
+        "5c4068ac-5977-f30a-10b7-7680344b447e",
+        "49cdd1c6-0228-32c0-2d39-f82954dde675",
+        "61f4b457-6e95-96aa-da27-2c388252cd31",
+        "5a068162-d9cc-66d8-f20d-4a64e88fb5c6",
+        "bf45c0bd-be59-7566-65f7-c1615130a84b",
+        "95aa596d-ea29-db5e-c8c5-4ced40d38d13",
+        "3950f17d-e8ac-c721-9a99-456f5ed91f64",
+        "56b99dff-0d52-4b68-18e9-36ad0495e1ad",
+        "c8bc85f5-3ba4-44a4-c0af-d82e999623c2",
+        "0ede91c9-294b-71e5-1d27-a494d5691778",
+        "aa36ab06-ba46-02b7-52b0-427822e4542f",
+        "9147e6e2-cb76-3f08-cfce-b38da7800965",
+        "596bccaf-cf06-eb40-f0dd-07f2689dee81",
+        "0733b087-41fe-d8cc-9384-064d197c12c7",
+        "fdb2db27-bfa9-bb45-ef56-07486a96a28f",
+        "42c20530-33e6-b196-8bb5-f1694c2f4bf7",
+        "3381dce6-04ff-6315-ad79-70f0ee9b0b6b"
+    ],
+    "document_ids": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "On the Scene: Jessica Rowe, Jason Salavon, Brian Ulrich"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2025-03-06T13:55:21-06:00",
+    "updated_at": "2025-08-04T23:36:58-05:00",
+    "timestamp": "2025-08-05T15:42:05-05:00"
+}

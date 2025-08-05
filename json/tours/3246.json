@@ -1,0 +1,62 @@
+{
+    "id": 3246,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/3246",
+    "title": "Verbal Description Tour: The Essentials",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/1926.224%20-%20A%20Sunday%20on%20La%20Grande%20Jatte%20%E2%80%94%201884.jpg",
+    "description": "<p>Designed for people with impaired vision: Discover our Essentials Tour.</p>\n",
+    "intro": "<p>Bask on the sunlit bank of the Seine in Georges Seurat's Sunday on La Grande Jatte or grab a late-night bite at a New York City diner in Edward Hopper's Nighthawks in this tour of the Art Institute of Chicago\u2019s renowned collection. Founded in 1879, the museum is home to art from cultures around the world. As you explore centuries of art, this guide highlights some essential landmarks\u2014along with with lesser known but equally engaging artworks. Designed for people with impaired vision and enjoyable by all, this tour brings out the rich details of these notable works of art through extensive descriptions that promote close and careful contemplation.</p>\n<p>\u00a0</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Number 3-6-5. Audio description tour introduction and device instructions.</p>\n<p>This tour describes works of art for people with low or no vision.</p>\n<p>Before we begin, let\u2019s take a moment to explain how to use this device. We will then explain how this audio program will unfold.</p>\n<p>Artworks on this tour are indicated by an \u2018AD\u2019 symbol and a three digit number located on the label to the left or right of the artworks.</p>\n<p>The buttons on your Acoustiguide device are divided into two sections\u2014an upper and lower section. You will use the lower section. The lower section is laid out like a telephone keypad, with raised dots on the number 'five' button. To access any stop on the tour, just enter the number and press the 'play' button, which is located directly above the number \u20181\u2019 button. You can press this button again to pause a selection at any time. To cancel a selection, press the \u2018stop\u2019 button, which is located directly above the number \u20183\u2019 button. Then enter a new number, and press the \u2018play\u2019 button. To adjust the volume, use the rocker button on the left side of the device.</p>\n<p>Each stop on the tour will begin with confirmation of the number of that stop. It will also include a reading of the 'object label' information. That will normally consist of the artist's name, if it\u2019s known, the title, date and dimensions of an artwork. A description of the work will follow. At the end of each visual description, you will be prompted to enter a number in order to listen to the interpretive commentary.</p>\n",
+    "artwork_titles": [
+        "American Gothic",
+        "Veranda Post (\u00d2p\u00f3 \u00d2g\u00f2g\u00e1)",
+        "Coronation Stone of Moctezuma Xocoyotzin",
+        "The Assumption of the Virgin",
+        "Nightlife",
+        "The Old Guitarist",
+        "Buddha Shakyamuni Seated in Meditation (Dhyanamudra)",
+        "City Landscape",
+        "A Sunday on La Grande Jatte \u2014 1884",
+        "The Bedroom",
+        "Stacks of Wheat (End of Day, Autumn)",
+        "Paris Street; Rainy Day",
+        "Bathers by a River",
+        "Nighthawks",
+        "America Windows",
+        "Improvisation No. 30 (Cannons)"
+    ],
+    "artist_titles": [
+        "Grant Wood",
+        "Olowe of Ise",
+        "Yoruba",
+        "Aztec (Mexica)",
+        "Domenico Theotok\u00f3poulos, called El Greco",
+        "Archibald John Motley Jr.",
+        "Pablo Picasso",
+        "Joan Mitchell",
+        "Georges Seurat",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Gustave Caillebotte",
+        "Henri Matisse",
+        "Edward Hopper",
+        "Marc Chagall",
+        "Vasily Kandinsky"
+    ],
+    "suggest_autocomplete_boosted": "Verbal Description Tour: The Essentials",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Verbal Description Tour: The Essentials"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2025-08-04T23:05:35-05:00",
+    "timestamp": "2025-08-05T15:52:59-05:00"
+}
