@@ -1,0 +1,20 @@
+{
+    "id": "0aef4366-f0bd-ccc6-d3cd-f03c2411eafc",
+    "lake_guid": "0aef4366-f0bd-ccc6-d3cd-f03c2411eafc",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0aef4366-f0bd-ccc6-d3cd-f03c2411eafc",
+    "title": "T99 VD Paris Street Rainy Day 20684",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0aef4366-f0bd-ccc6-d3cd-f03c2411eafc",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "a86eda4a6b3f11106c532842b2919b6e",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2026-08-19T19:00:09-05:00",
+    "updated_at": "2026-08-27T15:11:41-05:00",
+    "timestamp": "2026-10-04T01:28:49-05:00"
+}

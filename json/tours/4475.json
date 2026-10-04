@@ -1,0 +1,36 @@
+{
+    "id": 4475,
+    "api_model": "tours",
+    "api_link": "https://api.artic.edu/api/v1/tours/4475",
+    "title": "Perfectly United and Infinitely Graceful",
+    "image": "http://aic-mobile-tours.artic.edu/sites/default/files/tour-images/buddha-intro.jpg",
+    "description": "<p>Explore the metaphysical and spiritual in this journey through the Alsdorf South and Southeast Asian collection at the Art Institute of Chicago.</p>\n",
+    "intro": "<p>In Perfectly United, Infinitely Graceful, you'll learn the surprising histories and stories behind artworks in the South and Southeast Asian collection. You'll hear about gods and goddess, the life of the Buddha, the divine nature of Indian dance, and much more.</p>\n",
+    "weight": null,
+    "intro_link": null,
+    "intro_transcript": "<p>Andrew Meriwether: Hey. This is Andrew, audio producer here at the Art Institute, and I'm really excited to share this audio tour of our South and Southeast Asian Collection. These artworks are filled with stories of spirituality, romance, deception, joy, enlightenment, and everything in between. As you make your way through the collection, we hope you'll find the tales as epic, delightful, and as moving as we do. As with all of our tours, we suggest that you take the stops in order. However, feel free to skip around using the numbers displayed on the label. Before you begin, we'd like to invite you to participate in a guided meditation in front of this large statue of the Buddha, with Swami Ishatmananda. If you'd prefer to skip to the next stop, no problem. Just press pause and continue to the next artwork. We hope you enjoy the tour and thank you so much for listening.</p>\n<p>Ishatmananda: I am Swami Ishatmananda. I am from the Ramakrishna Mission sancture [ph?], Vivekananda Vedanta Society of Chicago. And if you see the statue of Lord Buddha, you will find the Lord Buddha is sitting in a wonderful asana [ph?] called _______ asana [ph?], simple posture, sitting posture. There you will find the Lord Buddha's left leg on the floor and the right leg placed on the left leg. The hands are placed on the lap, whole body straight. And in the meditation posture, on the top of the head, if one can imagine-- just imagine-- a white flower. Slowly coming down on the chest, bring the mind down to the chest and imagine a red lotus. On the middle of the flower, a lamp is burning. And when we are doing this, our breathing becoming very, very slow, body still, mind completely still, focusing on that lotus, that flower. Imagine that within your heart. And you can see the whole lamp, and then slowly you forget the lotus, forget the flower, forget the lamp, only the burning flame. And you are looking at that, and slowly that flame is becoming everywhere.</p>\n",
+    "artwork_titles": [
+        "Shiva as Lord of the Dance (Nataraja)",
+        "God Shiva as Lord Who Is Half-Male, Half-Female (Ardhanarishvara)",
+        "Crowned and Bejewelled Buddha Seated on an Elephant Throne",
+        "God Vishnu Riding His Mount, Garuda",
+        "God Vishnu Measures the Universe in Three Strides (Trivikrama)",
+        "God Vishnu with Goddesses Lakshmi and Sarasvati",
+        "Buddha Shakyamuni Meditating in the Indrashala Cave [top] and Buddha Dipankara [bottom]"
+    ],
+    "artist_titles": [],
+    "suggest_autocomplete_boosted": "Perfectly United and Infinitely Graceful",
+    "suggest_autocomplete_all": {
+        "input": [
+            "Perfectly United and Infinitely Graceful"
+        ],
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": null,
+    "updated_at": "2026-10-01T23:05:37-05:00",
+    "timestamp": "2026-10-04T01:29:10-05:00"
+}

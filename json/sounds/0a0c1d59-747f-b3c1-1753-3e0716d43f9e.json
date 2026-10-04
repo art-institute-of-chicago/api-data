@@ -1,0 +1,20 @@
+{
+    "id": "0a0c1d59-747f-b3c1-1753-3e0716d43f9e",
+    "lake_guid": "0a0c1d59-747f-b3c1-1753-3e0716d43f9e",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0a0c1d59-747f-b3c1-1753-3e0716d43f9e",
+    "title": "T52 Gyalavantin Loan",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0a0c1d59-747f-b3c1-1753-3e0716d43f9e",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "15705830986941631ee6194cdad55e5f",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2026-08-19T19:00:04-05:00",
+    "updated_at": "2026-08-27T15:12:17-05:00",
+    "timestamp": "2026-10-04T01:28:50-05:00"
+}

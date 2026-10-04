@@ -1,0 +1,20 @@
+{
+    "id": "0a003e0b-0d8a-ea2e-9e7b-6fabcd7b57c0",
+    "lake_guid": "0a003e0b-0d8a-ea2e-9e7b-6fabcd7b57c0",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0a003e0b-0d8a-ea2e-9e7b-6fabcd7b57c0",
+    "title": "Corpus Christ From The Altarpiece Of The Crucifixion 52560",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0a003e0b-0d8a-ea2e-9e7b-6fabcd7b57c0",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "9214110f37ba266ab758998246aa45af",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2026-08-19T19:00:03-05:00",
+    "updated_at": "2026-08-27T15:12:19-05:00",
+    "timestamp": "2026-10-04T01:28:49-05:00"
+}

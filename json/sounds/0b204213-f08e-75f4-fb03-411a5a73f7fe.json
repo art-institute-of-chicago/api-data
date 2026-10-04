@@ -1,0 +1,20 @@
+{
+    "id": "0b204213-f08e-75f4-fb03-411a5a73f7fe",
+    "lake_guid": "0b204213-f08e-75f4-fb03-411a5a73f7fe",
+    "api_model": "sounds",
+    "api_link": "https://api.artic.edu/api/v1/sounds/0b204213-f08e-75f4-fb03-411a5a73f7fe",
+    "title": "T84 Aspiration Loan",
+    "type": "sound",
+    "alt_text": null,
+    "content": "https://www.artic.edu/assets/0b204213-f08e-75f4-fb03-411a5a73f7fe",
+    "is_multimedia_resource": false,
+    "is_educational_resource": false,
+    "is_teacher_resource": false,
+    "credit_line": null,
+    "content_e_tag": "1410d0d349958e5f92e011cc4531fc73",
+    "artwork_ids": [],
+    "artwork_titles": [],
+    "source_updated_at": "2026-08-19T19:00:05-05:00",
+    "updated_at": "2026-08-27T15:12:12-05:00",
+    "timestamp": "2026-10-04T01:28:50-05:00"
+}

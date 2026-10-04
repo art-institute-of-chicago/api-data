@@ -1,0 +1,33 @@
+{
+    "id": 130,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/130",
+    "title": "Sigmund Abeles",
+    "sort_title": "Abeles, Sigmund",
+    "alt_titles": null,
+    "is_artist": true,
+    "agent_type_id": 7,
+    "agent_type_title": "Individual",
+    "birth_date": 1934,
+    "death_date": 2025,
+    "description": null,
+    "ulan_id": null,
+    "vocab_ids": null,
+    "wikidata_id": null,
+    "archives": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Sigmund Abeles",
+            "Abeles, Sigmund"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2025-12-29T09:41:50-06:00",
+    "updated_at": "2025-12-29T09:51:17-06:00",
+    "timestamp": "2026-10-04T01:19:25-05:00"
+}

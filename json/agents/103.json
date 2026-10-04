@@ -1,0 +1,36 @@
+{
+    "id": 103,
+    "api_model": "agents",
+    "api_link": "https://api.artic.edu/api/v1/agents/103",
+    "title": "Vilmos Aba-Nov\u00e1k",
+    "sort_title": "Aba-Nov\u00e1k, Vilmos",
+    "alt_titles": [
+        "Vilmos Aba- Nov\u00e1k"
+    ],
+    "is_artist": true,
+    "agent_type_id": 7,
+    "agent_type_title": "Individual",
+    "birth_date": 1894,
+    "death_date": 1941,
+    "description": null,
+    "ulan_id": null,
+    "vocab_ids": null,
+    "wikidata_id": null,
+    "archives": [],
+    "suggest_autocomplete_all": {
+        "input": [
+            "Vilmos Aba-Nov\u00e1k",
+            "Aba-Nov\u00e1k, Vilmos",
+            "Vilmos Aba- Nov\u00e1k"
+        ],
+        "weight": 2,
+        "contexts": {
+            "groupings": [
+                "title"
+            ]
+        }
+    },
+    "source_updated_at": "2022-10-14T10:33:37-05:00",
+    "updated_at": "2022-10-14T10:35:53-05:00",
+    "timestamp": "2026-10-04T01:19:25-05:00"
+}
